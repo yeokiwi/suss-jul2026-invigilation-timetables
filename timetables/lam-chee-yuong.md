@@ -1,6 +1,6 @@
 # Lam Chee Yuong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **7 duties** · Tue 10 Nov 2026 to Tue 17 Nov 2026
 

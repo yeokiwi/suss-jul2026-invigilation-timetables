@@ -1,6 +1,6 @@
 # Gary Chang — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **9 duties** · Mon 16 Nov 2026 to Fri 20 Nov 2026
 

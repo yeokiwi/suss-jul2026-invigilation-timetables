@@ -1,8 +1,10 @@
 # Celeste Koh — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
-**1 duty** · Thu 19 Nov 2026
+> **Changed since v1 (16 Oct 2026):** 1 removed · 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+
+**1 duty** · Tue 10 Nov 2026
 
 Roles: Chief Invigilator (Understudy) × 1
 
@@ -10,7 +12,12 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.10** | COU209 (POE, Closed Book)<br>SPE107 (POE, Closed Book)<br>CTI122 (POE, Open Book) | Lim Suan Kiow, Celeste Koh (US) | A/P Jiang Zhiying · reports at C.3.08 |
+| 1 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.4.08** | ICT335 (POE, Closed Book) | Casey Seto, Celeste Koh (US) | Dr Jason Gan · reports at C.4.08 |
+
+## Changes since v1 (16 Oct 2026)
+
+- ~~Thu 19 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator (Understudy) · C.3.10 · COU209, SPE107, CTI122~~ — **removed**
+- Tue 10 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator (Understudy) · C.4.08 · ICT335 — **added**
 
 ## Reporting
 

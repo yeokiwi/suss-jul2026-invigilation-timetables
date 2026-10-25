@@ -1,6 +1,6 @@
 # Lo Tak Wah — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **9 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -11,7 +11,7 @@ Roles: Invigilator × 9
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.11** | BUS104 (Written Exam, Open Book with e-Textbook & iSG) | Asmarina | Prof Lee Pui Mun · reports at C.6.09 |
-| 2 | Tue 10 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.10** | PSY107 (POE, Closed Book) | Lim Suan Kiow | Dr Vincent Oh · reports at C.4.08 |
+| 2 | Tue 10 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.10** | PSY107 (POE, Closed Book) | Lim Suan Kiow | Dr Janice Tan Soo Ling · reports at C.4.08 |
 | 3 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.10** | ICT133 (POE, Closed Book) | Josephine Ng Seok | Dr Kaveri G · reports at C.4.08 |
 | 4 | Fri 13 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.4.12** | ACC305 (POE, Closed Book) | Vera Lui | A/P Tay Huay Ling · reports at C.4.12 |
 | 5 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.09** | BME311 (Written Exam, Open Book with e-Textbook & iSG)<br>EAS107 (Written Exam, Open Book with e-Textbook & iSG)<br>ENG305 (Written Exam, Open Book with e-Textbook & iSG) | Rachel Wong | Dr Clement Yuen · reports at C.5.07 |

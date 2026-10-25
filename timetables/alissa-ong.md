@@ -1,6 +1,6 @@
 # Alissa Ong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **1 duty** · Wed 18 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: e-Exam Support × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Wed 18 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | e-Exam Support | **C.3.12** | LAW311* (e-Exam, Examplify) | Vera Lui, Shum Chee Keong (US) | Samuel Chua (CL) |
+| 1 | Wed 18 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | e-Exam Support | **C.3.12** | LAW311* (e-Exam, Examplify) | Vera Lui | Samuel Chua (CL) |
 
 ## Reporting
 

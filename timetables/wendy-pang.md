@@ -1,6 +1,6 @@
 # Wendy Pang — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **1 duty** · Wed 18 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Wed 18 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.4.08** | LOG302 (POE, Closed Book)<br>MKT368 (POE, Closed Book) | Marie Lur, Wendy Pang (US) | Dr Priyanka Gupta · reports at C.4.08 |
+| 1 | Wed 18 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.4.08** | LOG302 (POE, Closed Book)<br>MKT368 (POE, Closed Book) | Marie Lur, Wendy Pang (US) | Dr Karl Wu · reports at C.4.08 |
 
 ## Reporting
 

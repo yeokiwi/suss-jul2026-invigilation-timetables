@@ -1,6 +1,6 @@
 # Joanna Toh — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **15 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -16,7 +16,7 @@ Roles: Chief Invigilator × 2, Chief Invigilator (Understudy) × 2, Invigilator 
 | 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.10** | EMT223 (POE, Closed Book)<br>ICT225 (POE, Closed Book) | Eve Yong | A/P Ludwig Tan · reports at C.4.08 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | Marie Lur, Siti Nur Jazeerah Kasim (US) | Dr Zhou Bowen · reports at C.4.12 |
 | 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | BME219 (POE, Closed Book)<br>HFS371 (POE, Closed Book) | Serene Low | A/P Yap Wei Yim (CL) · reports at C.4.12 |
-| 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.11** | BME205 (Written Exam, Closed Book) | Vera Lui | Dr Evelyn Gay · reports at C.5.11 |
+| 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.11** | BME205 (Written Exam, Closed Book) | Vera Lui | A/P Adrian Kwek · reports at C.5.11 |
 | 8 | Fri 13 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.4.14** | RES511 (Written Exam, Open Book with e-Textbook & iSG) | Maheswari | A/P Tay Huay Ling · reports at C.4.12 |
 | 9 | Mon 16 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.6.09** | ACC309 (Written Exam, Open Book with e-Textbook & iSG)<br>FMT511 (Written Exam, Open Book with e-Textbook & iSG)<br>RES513* (Written Exam, Open Book with e-Textbook & iSG) | Tan Keng Geok | Prof Alan Lim (CL) |
 | 10 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | BUS308* (Written Exam, Open Book with e-Textbook & iSG) | Jolene Ang | Dr Xu Jianxiong (CL) · reports at C.5.07 |

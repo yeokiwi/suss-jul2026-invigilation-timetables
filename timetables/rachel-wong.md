@@ -1,6 +1,6 @@
 # Rachel Wong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **16 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -23,7 +23,7 @@ Roles: Chief Invigilator × 8, Invigilator × 8
 | 11 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.6.05** | ANL305R (Written Exam, Closed Book)<br>CHS301 (Written Exam, Closed Book) | *(you)* | Michael Ng |
 | 12 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.6.05** | MTH109 (Written Exam, Open Book with e-Textbook & iSG) | Casey Seto | A/P Kelvin Tan · reports at C.6.05 |
 | 13 | Wed 18 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | ANL321R (Written Exam, Open Book with e-Textbook & iSG)<br>ECO304 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Tristan Lim · reports at C.5.07 |
-| 14 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | FMT201 (Written Exam, Open Book with e-Textbook & iSG) | Elaine Lim Mui Ling | Dr Chin Hui Wen · reports at C.5.07 |
+| 14 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | FMT201 (Written Exam, Open Book with e-Textbook & iSG) | Elaine Lim Mui Ling | Dr Aletheia Lee · reports at C.5.07 |
 | 15 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | BUS107 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Michael Kent · reports at C.5.07 |
 | 16 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | BME217 (POE, Closed Book)<br>COS109 (POE, Closed Book) | Jolene Ang | A/P Jiang Zhiying · reports at C.3.08 |
 

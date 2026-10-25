@@ -1,6 +1,6 @@
 # Mohd Raffid — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **18 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -22,7 +22,7 @@ Roles: Chief Invigilator × 10, Invigilator × 8
 | 10 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | ACC202 (POE, Closed Book) | *(you)* | A/P Carmen Lee · reports at C.5.07 |
 | 11 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | FIN203 (Written Exam, Open Book with e-Textbook & iSG) | Karen Chang | Dr Tan Eng Joo · reports at C.5.07 |
 | 12 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.10** | PSS103 (POE, Closed Book) | *(you)* | Dr Wang Zhiyuan (CL) · reports at C.4.08 |
-| 13 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | FIN304 (POE, Closed Book) | Susan Chong, Raneeta Mutiara (US) | Dr Ooi Seok Hui · reports at C.4.12 |
+| 13 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | FIN304 (POE, Closed Book) | Angeline Ee, Raneeta Mutiara (US) | Dr Natasha Nur Singh Riard · reports at C.4.12 |
 | 14 | Wed 18 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.12** | MKT368 (POE, Closed Book) | *(you)* | Dr Zhou Xuan Dr Lewis Zhang (US) · reports at C.4.12 |
 | 15 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.14** | ICT101 (Written Exam, Closed Book) | Goh Soh Shan | A/P Yuan Xuchuan · reports at C.4.12 |
 | 16 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.08** | HRM231 (POE, Closed Book)<br>MKT351 (POE, Closed Book) | *(you)* | Dr Ganthimathi · reports at C.4.08 |

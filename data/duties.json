@@ -288,7 +288,7 @@
   "pe": "A/P Jimmy Wong *Report at C.6.05",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Susan Chong",
+  "name": "Angeline Ee",
   "understudy": false
  },
  {
@@ -318,7 +318,7 @@
   "pe": "Prof Lee Pui Mun *Report at C.6.09",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Linda Yiu",
+  "name": "Sharon Goh Siew Hong",
   "understudy": false
  },
  {
@@ -532,7 +532,7 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Joanne Hong",
@@ -547,7 +547,7 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
   "name": "Ryan Hidayat Sulaiman",
@@ -563,7 +563,7 @@
    "PSY307 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Eve Yong",
@@ -596,7 +596,7 @@
   "pe": "Dr Jason Gan *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
-  "name": "Fancy Ng",
+  "name": "Celeste Koh",
   "understudy": true
  },
  {
@@ -642,7 +642,7 @@
   "pe": "Dr Sugoutam Ghosh Leon Lim (US) *Report at C.4.12",
   "n_invig": "2",
   "role": "Chief Invigilator",
-  "name": "Angeline Ee",
+  "name": "Susan Chong",
   "understudy": false
  },
  {
@@ -1311,7 +1311,7 @@
   "pe": "A/P Tan Chong Hui *CL *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Tan Yianna",
+  "name": "Serene Teo",
   "understudy": false
  },
  {
@@ -1343,7 +1343,7 @@
   "pe": "A/P James Tan *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Grace Goh",
   "understudy": false
  },
  {
@@ -1653,7 +1653,7 @@
   "pe": "Dr Ng Mei Zhen *CL Dr Lawrence Huang (US) *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Ricky Leow",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -2081,7 +2081,7 @@
   "pe": "Dr Lye Kit Ying *Report at C.7.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ruby Wee",
+  "name": "Shirley Goh",
   "understudy": false
  },
  {
@@ -2294,7 +2294,7 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jolene Ang",
@@ -2309,10 +2309,10 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Karen Goh",
+  "name": "Joyce Lai",
   "understudy": false
  },
  {
@@ -2324,7 +2324,7 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Eva Lee Show Hwee",
@@ -2339,7 +2339,7 @@
    "COM223 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Koh Chee Han",
@@ -2355,7 +2355,7 @@
    "PSY307 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Alvin Wong",
@@ -2371,7 +2371,7 @@
    "PSY307 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jenn Wong",
@@ -2387,7 +2387,7 @@
    "PSY307 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Chng Kian Hu",
@@ -2403,7 +2403,7 @@
    "PSY307 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Jeremy Ang Dr Thomas Fan (US) *Report at C.3.08",
+  "pe": "Dr Ooi Seok Hui Dr Thomas Fan (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Goh Soh Shan",
@@ -2482,7 +2482,7 @@
   "pe": "Dr Jason Gan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Sharon Goh Siew Hong",
+  "name": "Lawrence Ku",
   "understudy": false
  },
  {
@@ -2786,7 +2786,7 @@
   "pe": "Dr Regina Lee Dr Sri Harsha Turlapati (US) *CL *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Susan Chong",
+  "name": "Angeline Ee",
   "understudy": false
  },
  {
@@ -2802,7 +2802,7 @@
   "pe": "Dr Regina Lee Dr Sri Harsha Turlapati (US) *CL *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Wu Kan Hwei",
   "understudy": false
  },
  {
@@ -2924,7 +2924,7 @@
   "pe": "Prof Ooi Chui Ping *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Linda Yiu",
+  "name": "Alex Tan",
   "understudy": false
  },
  {
@@ -3042,7 +3042,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Sharon Goh Siew Hong",
@@ -3057,7 +3057,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "59",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Lim Suan Kiow",
@@ -3143,7 +3143,7 @@
   "pe": "A/P Wee Shiou Liang",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Gerald Wong",
   "understudy": false
  },
  {
@@ -3213,7 +3213,7 @@
   "pe": "",
   "n_invig": "4",
   "role": "Standby Chief Invigilator (POE)",
-  "name": "Gabriel Leow",
+  "name": "Prema",
   "understudy": false
  },
  {
@@ -3226,7 +3226,7 @@
   "pe": "",
   "n_invig": "4",
   "role": "Standby Chief Invigilator (POE)",
-  "name": "Hemanarth Anamaly",
+  "name": "Michelle Chan",
   "understudy": false
  },
  {
@@ -3282,7 +3282,7 @@
   "pe": "A/P Atiqah Azhari *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Betty Gan",
   "understudy": false
  },
  {
@@ -3297,7 +3297,7 @@
   "pe": "A/P Atiqah Azhari *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ruby Wee",
+  "name": "Wong Chang Boon",
   "understudy": false
  },
  {
@@ -3448,7 +3448,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Rena Lau",
@@ -3463,7 +3463,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Yeo Sock Kui",
@@ -3478,7 +3478,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Eric Teo",
@@ -3493,7 +3493,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Soh Poh Suan",
@@ -3508,7 +3508,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "59",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Lo Tak Wah",
@@ -3523,7 +3523,7 @@
    "PSY107 (POE, Closed Book)"
   ],
   "students": "59",
-  "pe": "Dr Vincent Oh *Report at C.4.08",
+  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Ong Yuin Ling",
@@ -3574,7 +3574,7 @@
   "pe": "A/P Joyce Wang *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Gerald Wong",
+  "name": "Law Chai Swan",
   "understudy": false
  },
  {
@@ -3708,7 +3708,7 @@
   "pe": "A/P Joicey Wei *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ricky Leow",
+  "name": "Celine Cheong",
   "understudy": false
  },
  {
@@ -3856,7 +3856,7 @@
   "pe": "A/P Chua Wei Hwa *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Irene Peh",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -4001,21 +4001,6 @@
   "page": 3,
   "date": "11-Nov-26 (Wed)",
   "time": "10:00 AM - 12:00 PM",
-  "venue": "HQ, BLK C-SR C.4.12",
-  "courses": [
-   "MKT202 (POE, Closed Book)"
-  ],
-  "students": "103",
-  "pe": "Dr Joanne Ho Dr Kenan Kok (US) *Report at C.4.12",
-  "n_invig": "4",
-  "role": "Chief Invigilator (Understudy)",
-  "name": "Charmaine Wong",
-  "understudy": true
- },
- {
-  "page": 3,
-  "date": "11-Nov-26 (Wed)",
-  "time": "10:00 AM - 12:00 PM",
   "venue": "HQ, BLK C-SR C.4.14",
   "courses": [
    "MKT202 (POE, Closed Book)"
@@ -4087,7 +4072,7 @@
   "pe": "Dr Qian Shuoge *CL *Report at C.5.07",
   "n_invig": "3",
   "role": "Chief Invigilator",
-  "name": "Karen Goh",
+  "name": "Winston Wee",
   "understudy": false
  },
  {
@@ -4176,7 +4161,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Vera Lui",
@@ -4191,7 +4176,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Elaine Lim Mui Ling",
@@ -4206,7 +4191,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
   "name": "Bobby Wong",
@@ -4235,8 +4220,7 @@
   "time": "01:00 PM - 03:00 PM",
   "venue": "HQ, BLK C-SR C.4.08",
   "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
+   "ELT201 (POE, Closed Book)"
   ],
   "students": "91",
   "pe": "A/P Ludwig Tan *Report at C.4.08",
@@ -4244,22 +4228,6 @@
   "role": "Chief Invigilator",
   "name": "Low Wai Leng",
   "understudy": false
- },
- {
-  "page": 3,
-  "date": "11-Nov-26 (Wed)",
-  "time": "01:00 PM - 03:00 PM",
-  "venue": "HQ, BLK C-SR C.4.08",
-  "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
-  ],
-  "students": "91",
-  "pe": "A/P Ludwig Tan *Report at C.4.08",
-  "n_invig": "4",
-  "role": "Chief Invigilator (Understudy)",
-  "name": "Audrey Chan",
-  "understudy": true
  },
  {
   "page": 3,
@@ -4393,7 +4361,7 @@
    "ICT114 (Written Exam, Closed Book)"
   ],
   "students": "57",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Patricia Ang",
@@ -4408,7 +4376,7 @@
    "BPM205 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "92",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Susan Chong",
@@ -4541,7 +4509,7 @@
   "pe": "",
   "n_invig": "3",
   "role": "Standby Chief Invigilator (POE)",
-  "name": "Azie",
+  "name": "Janice Lim",
   "understudy": false
  },
  {
@@ -4645,7 +4613,7 @@
   "pe": "",
   "n_invig": "4",
   "role": "Standby Chief Invigilator (Written)",
-  "name": "Ellysha Natasha",
+  "name": "Teo Qi Yu",
   "understudy": false
  },
  {
@@ -4729,7 +4697,7 @@
   "pe": "Dr Sheryl Chua *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Soh Boon Jiak",
+  "name": "Merlyn Lee",
   "understudy": false
  },
  {
@@ -4853,7 +4821,7 @@
   "pe": "Dr Chris Woo *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Lawrence Ku",
+  "name": "Shirley Goh",
   "understudy": false
  },
  {
@@ -4898,7 +4866,7 @@
   "pe": "Dr Chris Woo *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Jennifer Pang",
+  "name": "Raghbir Singh",
   "understudy": false
  },
  {
@@ -5192,7 +5160,7 @@
   "pe": "Dr Qian Shuoge *CL *Report at C.5.07",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Joyce Lai",
+  "name": "Sum Kwai Siong",
   "understudy": false
  },
  {
@@ -5358,7 +5326,7 @@
   "pe": "A/P Ha Thi Thu Huong *CL *Report at C.6.09",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Linda Yiu",
+  "name": "Candy Tan",
   "understudy": false
  },
  {
@@ -5434,7 +5402,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Low How Choi",
@@ -5449,7 +5417,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Ang Li Kar",
@@ -5464,10 +5432,10 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Soh Boon Jiak",
+  "name": "Valerie Eng",
   "understudy": false
  },
  {
@@ -5479,7 +5447,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Low Kim Yong",
@@ -5494,7 +5462,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Candice Tai",
@@ -5509,7 +5477,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Goh Bee Dee",
@@ -5524,7 +5492,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Tracey Tan",
@@ -5539,7 +5507,7 @@
    "BUS205* (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Lam Chen Meng *CL Dr Harry Lim (US) *Report at C.3.08",
+  "pe": "A/P Lam Chen Meng *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jennifer Pang",
@@ -5593,7 +5561,7 @@
   "pe": "A/P Ada Wong",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ruby Wee",
+  "name": "Belinda Ho",
   "understudy": false
  },
  {
@@ -5619,8 +5587,7 @@
   "time": "01:00 PM - 03:00 PM",
   "venue": "HQ, BLK C-SR C.4.08",
   "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
+   "ELT201 (POE, Closed Book)"
   ],
   "students": "91",
   "pe": "A/P Ludwig Tan *Report at C.4.08",
@@ -5635,8 +5602,7 @@
   "time": "01:00 PM - 03:00 PM",
   "venue": "HQ, BLK C-SR C.4.08",
   "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
+   "ELT201 (POE, Closed Book)"
   ],
   "students": "91",
   "pe": "A/P Ludwig Tan *Report at C.4.08",
@@ -5651,8 +5617,7 @@
   "time": "01:00 PM - 03:00 PM",
   "venue": "HQ, BLK C-SR C.4.08",
   "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
+   "ELT201 (POE, Closed Book)"
   ],
   "students": "91",
   "pe": "A/P Ludwig Tan *Report at C.4.08",
@@ -5667,14 +5632,13 @@
   "time": "01:00 PM - 03:00 PM",
   "venue": "HQ, BLK C-SR C.4.08",
   "courses": [
-   "ELT201 (POE, Closed Book)",
-   "MTD113 (POE, Closed Book)"
+   "ELT201 (POE, Closed Book)"
   ],
   "students": "91",
   "pe": "A/P Ludwig Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ricky Leow",
+  "name": "Raymond Yeo",
   "understudy": false
  },
  {
@@ -5938,7 +5902,7 @@
   "pe": "Dr Liu Fang *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Serene Teo",
+  "name": "Justina Quek",
   "understudy": false
  },
  {
@@ -5965,10 +5929,10 @@
    "ICT114 (Written Exam, Closed Book)"
   ],
   "students": "57",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Winston Wee",
+  "name": "Patricia Yan",
   "understudy": false
  },
  {
@@ -5980,7 +5944,7 @@
    "ICT114 (Written Exam, Closed Book)"
   ],
   "students": "57",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Tan Yianna",
@@ -5995,7 +5959,7 @@
    "BPM205 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "92",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Cynthia Asio",
@@ -6010,7 +5974,7 @@
    "BPM205 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "92",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lam Tze Ching",
@@ -6025,7 +5989,7 @@
    "BPM205 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "92",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angie Pang",
@@ -6040,7 +6004,7 @@
    "BPM205 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "92",
-  "pe": "Dr Xu Weibiao *Report at C.5.11",
+  "pe": "Dr Teng Yun *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Audrey Tay",
@@ -6227,7 +6191,7 @@
   "pe": "Dr Zuraimi *CL Dr Cynthia Tan (US) *Report at C.6.09",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -6299,7 +6263,7 @@
    "PSY265 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Ang Li Kar",
@@ -6315,7 +6279,7 @@
    "SWK401 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Maheswari",
@@ -6483,7 +6447,7 @@
    "TLL304 (Written Exam, Closed Book)"
   ],
   "students": "39",
-  "pe": "Dr Ding Qinxu",
+  "pe": "A/P Xia Chongwu",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Lim Suan Kiow",
@@ -6501,7 +6465,7 @@
   "pe": "Dr Yu Chou Chuen *Report at C.6.09",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Sebastian Caroline Ann",
   "understudy": false
  },
  {
@@ -6516,7 +6480,7 @@
   "pe": "Dr Yu Chou Chuen *Report at C.6.09",
   "n_invig": "2",
   "role": "Chief Invigilator",
-  "name": "Sebastian Caroline Ann",
+  "name": "Linda Yiu",
   "understudy": false
  },
  {
@@ -6711,7 +6675,7 @@
    "PSY265 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Kenny Lim",
@@ -6726,7 +6690,7 @@
    "PSY265 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angela Yip",
@@ -6741,7 +6705,7 @@
    "PSY265 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Belinda Ho",
@@ -6756,7 +6720,7 @@
    "PSY265 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Ong Yuin Ling",
@@ -6772,7 +6736,7 @@
    "SWK401 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Alfred Chua",
@@ -6788,7 +6752,7 @@
    "SWK401 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Candy Tan",
@@ -6804,7 +6768,7 @@
    "SWK401 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Ruby Wee",
@@ -6820,7 +6784,7 @@
    "SWK401 (POE, Closed Book)"
   ],
   "students": "96",
-  "pe": "Dr Natasha Nur Singh Riard *Report at C.3.08",
+  "pe": "Jeremy Ang Dr Harry Lim (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lee Woon Yong",
@@ -6868,7 +6832,7 @@
   "pe": "A/P Soe Marlar Lwin *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Joyce Lai",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -6913,7 +6877,7 @@
   "pe": "A/P Soe Marlar Lwin *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Raghbir Singh",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -6988,7 +6952,7 @@
   "pe": "Dr Eugene Or *CL *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Laura Lee",
   "understudy": false
  },
  {
@@ -7004,21 +6968,6 @@
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Linda Quek",
-  "understudy": false
- },
- {
-  "page": 4,
-  "date": "11-Nov-26 (Wed)",
-  "time": "04:00 PM - 06:00 PM",
-  "venue": "HQ, BLK C-SR C.4.08",
-  "courses": [
-   "ECO202* (Written Exam, Open Book with e-Textbook & iSG)"
-  ],
-  "students": "103",
-  "pe": "Dr Eugene Or *CL *Report at C.4.08",
-  "n_invig": "4",
-  "role": "Invigilator",
-  "name": "Ricky Leow",
   "understudy": false
  },
  {
@@ -7320,7 +7269,7 @@
    "TLL304 (Written Exam, Closed Book)"
   ],
   "students": "39",
-  "pe": "Dr Ding Qinxu",
+  "pe": "A/P Xia Chongwu",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Ong Lih Lian",
@@ -7337,7 +7286,7 @@
    "TLL304 (Written Exam, Closed Book)"
   ],
   "students": "39",
-  "pe": "Dr Ding Qinxu",
+  "pe": "A/P Xia Chongwu",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Koh Chee Han",
@@ -7465,23 +7414,6 @@
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Donna Foong",
-  "understudy": false
- },
- {
-  "page": 4,
-  "date": "11-Nov-26 (Wed)",
-  "time": "04:00 PM - 07:00 PM",
-  "venue": "HQ, BLK C-SR C.6.12",
-  "courses": [
-   "GSS504 (POE, Open Book)",
-   "SWK391 (POE, Closed Book)",
-   "SWK561 (POE, Closed Book)"
-  ],
-  "students": "95",
-  "pe": "Dr Yu Chou Chuen *Report at C.6.09",
-  "n_invig": "4",
-  "role": "Invigilator",
-  "name": "Irene Peh",
   "understudy": false
  },
  {
@@ -7711,7 +7643,7 @@
   "pe": "Dr Zhou Bowen *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Vera Lui",
+  "name": "Susan Chong",
   "understudy": false
  },
  {
@@ -7828,7 +7760,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Casey Seto",
@@ -7843,7 +7775,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Karen Chang",
@@ -7968,7 +7900,7 @@
   "pe": "A/P Liu Wenting *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Susan Chong",
+  "name": "Vera Lui",
   "understudy": false
  },
  {
@@ -8088,7 +8020,7 @@
    "IPM525 (POE, Closed Book)"
   ],
   "students": "11",
-  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Ameen Talib",
+  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Teo Leong Hwee",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Elena Goo",
@@ -8103,7 +8035,7 @@
    "IPM525 (POE, Closed Book)"
   ],
   "students": "11",
-  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Ameen Talib",
+  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Teo Leong Hwee",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Esther Wong",
@@ -8164,7 +8096,7 @@
   "pe": "",
   "n_invig": "4",
   "role": "Standby Chief Invigilator (POE)",
-  "name": "Michelle Chan",
+  "name": "Hemanarth Anamaly",
   "understudy": false
  },
  {
@@ -8546,7 +8478,7 @@
   "pe": "Dr Zhou Bowen *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Justina Quek",
+  "name": "Constance Ho",
   "understudy": false
  },
  {
@@ -8561,7 +8493,7 @@
   "pe": "Dr Zhou Bowen *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Ricky Leow",
+  "name": "Celine Cheong",
   "understudy": false
  },
  {
@@ -8636,7 +8568,7 @@
   "pe": "A/P Ma Nang Laik *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Susan Chong",
+  "name": "Vera Lui",
   "understudy": false
  },
  {
@@ -8993,7 +8925,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Chuang Mui Yau",
@@ -9008,7 +8940,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Belinda Ho",
@@ -9023,7 +8955,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Valerie Eng",
@@ -9038,7 +8970,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angela Foong",
@@ -9053,7 +8985,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Veronica Yu",
@@ -9068,7 +9000,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angela Yip",
@@ -9083,7 +9015,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jeanne Ng",
@@ -9098,7 +9030,7 @@
    "BUS105 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Sunny Leong *Report at C.6.05",
+  "pe": "Dr Serena Seah *Report at C.6.05",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Premkumar",
@@ -9221,7 +9153,7 @@
   "pe": "Dr Cheng Ningning *Report at C.6.09",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Candy Tan",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -9327,7 +9259,7 @@
   "pe": "A/P Wang Yuan *Report at C.7.11",
   "n_invig": "1",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Sum Kwai Siong",
   "understudy": false
  },
  {
@@ -9387,7 +9319,7 @@
   "pe": "A/P Wang Jiun-Wen *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Gerald Wong",
+  "name": "Belinda Ho",
   "understudy": false
  },
  {
@@ -9402,7 +9334,7 @@
   "pe": "A/P Wang Jiun-Wen *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Sharon Goh Siew Hong",
+  "name": "Joyce Lai",
   "understudy": false
  },
  {
@@ -9623,7 +9555,7 @@
   "pe": "A/P Yap Wei Yim *CL *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Vera Lui",
+  "name": "Patricia Yan",
   "understudy": false
  },
  {
@@ -9776,7 +9708,7 @@
   "pe": "Lawrence Boey",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Lawrence Ku",
+  "name": "Shirley Goh",
   "understudy": false
  },
  {
@@ -9821,7 +9753,7 @@
   "pe": "Lawrence Boey",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Emmeline Yeo",
+  "name": "Raghbir Singh",
   "understudy": false
  },
  {
@@ -9833,7 +9765,7 @@
    "IPM525 (POE, Closed Book)"
   ],
   "students": "11",
-  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Ameen Talib",
+  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Teo Leong Hwee",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "June Kwok",
@@ -9848,7 +9780,7 @@
    "IPM525 (POE, Closed Book)"
   ],
   "students": "11",
-  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Ameen Talib",
+  "pe": "01:00 PM - 03:00 PM Team 1 (PE): Dr Carmen Shih 03:00 PM - 05:00 PM Team 2 (PE): Dr Teo Leong Hwee",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Rena Lau",
@@ -10018,7 +9950,7 @@
    "MLL103 (Written Exam, Closed Book)"
   ],
   "students": "53",
-  "pe": "Dr Aletheia Lee",
+  "pe": "Dr Chin Hui Wen",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Lam Tze Ching",
@@ -10055,7 +9987,7 @@
   "pe": "Dr Cynthia Lim *Report at C.4.12",
   "n_invig": "2",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Gerald Wong",
   "understudy": false
  },
  {
@@ -10476,7 +10408,7 @@
   "pe": "A/P Zhu Yongqing *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Brian Koh",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -10658,7 +10590,7 @@
   "pe": "Daniel Chan *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Emmeline Yeo",
+  "name": "Raghbir Singh",
   "understudy": false
  },
  {
@@ -10816,7 +10748,7 @@
    "MLL103 (Written Exam, Closed Book)"
   ],
   "students": "53",
-  "pe": "Dr Aletheia Lee",
+  "pe": "Dr Chin Hui Wen",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Alfred Chua",
@@ -10832,7 +10764,7 @@
    "MLL103 (Written Exam, Closed Book)"
   ],
   "students": "53",
-  "pe": "Dr Aletheia Lee",
+  "pe": "Dr Chin Hui Wen",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Celine Cheong",
@@ -10952,7 +10884,7 @@
   "pe": "Dr Cynthia Lim *Report at C.4.12",
   "n_invig": "1",
   "role": "Invigilator",
-  "name": "Ricky Leow",
+  "name": "Rimmy Ling",
   "understudy": false
  },
  {
@@ -11175,7 +11107,7 @@
    "BME205 (Written Exam, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Vera Lui",
@@ -11192,7 +11124,7 @@
    "SEC343R (Written Exam, Closed Book)"
   ],
   "students": "65",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Elaine Lim Mui Ling",
@@ -11237,7 +11169,7 @@
    "COM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Josephine Ng Seok",
@@ -11254,7 +11186,7 @@
    "PRM211 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Jolene Ang",
@@ -11905,7 +11837,7 @@
    "BME205 (Written Exam, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Joanna Toh",
@@ -11920,7 +11852,7 @@
    "BME205 (Written Exam, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jennifer Pang",
@@ -11935,7 +11867,7 @@
    "BME205 (Written Exam, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Raymond Yeo",
@@ -11950,7 +11882,7 @@
    "BME205 (Written Exam, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Sim Boh Hoon",
@@ -11967,7 +11899,7 @@
    "SEC343R (Written Exam, Closed Book)"
   ],
   "students": "65",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Eliza Nashita Ng",
@@ -11984,7 +11916,7 @@
    "SEC343R (Written Exam, Closed Book)"
   ],
   "students": "65",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Vincent Lim",
@@ -12001,7 +11933,7 @@
    "SEC343R (Written Exam, Closed Book)"
   ],
   "students": "65",
-  "pe": "Dr Evelyn Gay *Report at C.5.11",
+  "pe": "A/P Adrian Kwek *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Seah Lay Kheng",
@@ -12046,7 +11978,7 @@
    "COM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Premkumar",
@@ -12061,7 +11993,7 @@
    "COM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Linda Chang",
@@ -12076,10 +12008,10 @@
    "COM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Patricia Yan",
   "understudy": false
  },
  {
@@ -12091,7 +12023,7 @@
    "COM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angela Foong",
@@ -12108,7 +12040,7 @@
    "PRM211 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Chng Kian Hu",
@@ -12125,7 +12057,7 @@
    "PRM211 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Catherine Tai",
@@ -12142,7 +12074,7 @@
    "PRM211 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Alice Leong",
@@ -12159,7 +12091,7 @@
    "PRM211 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Karl Wu *Report at C.3.08",
+  "pe": "Dr Priyanka Gupta *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Law Chai Swan",
@@ -12271,7 +12203,7 @@
   "pe": "Dr Sinha Anoop Kumar *CL *Report at C.4.08",
   "n_invig": "1",
   "role": "Invigilator",
-  "name": "Brian Koh",
+  "name": "Winston Wee",
   "understudy": false
  },
  {
@@ -12429,7 +12361,7 @@
   "pe": "Dr Carol Pereira *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Jolene Ang",
+  "name": "Roslyn Tan",
   "understudy": false
  },
  {
@@ -12664,7 +12596,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Casey Seto",
@@ -12679,7 +12611,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "89",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Karen Chang",
@@ -12694,7 +12626,7 @@
    "SPE103 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Low Wai Leng",
@@ -12709,7 +12641,7 @@
    "POL101 (POE, Open Book)"
   ],
   "students": "65",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Serena Phang",
@@ -12727,7 +12659,7 @@
   "pe": "A/P Hu Shu *CL *Report at C.5.07",
   "n_invig": "3",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Ang Li Kar",
   "understudy": false
  },
  {
@@ -13339,7 +13271,7 @@
   "pe": "Dr Clement Yuen *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Shirley Goh",
   "understudy": false
  },
  {
@@ -13418,7 +13350,7 @@
   "pe": "Dr Clement Yuen *Report at C.5.07",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Winston Wee",
   "understudy": false
  },
  {
@@ -13465,7 +13397,7 @@
   "pe": "Dr Cera Tan *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "June Kwok",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -13669,7 +13601,7 @@
   "pe": "A/P Angela Tan *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Jolene Ang",
+  "name": "Roslyn Tan",
   "understudy": false
  },
  {
@@ -13777,7 +13709,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Doris Heng",
@@ -13792,7 +13724,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Serene Low",
@@ -13807,7 +13739,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Goh Bee Dee",
@@ -13822,7 +13754,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Soh Boon Jiak",
@@ -13837,7 +13769,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "89",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Lim Suan Kiow",
@@ -13852,7 +13784,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "89",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Wong Waa Bee",
@@ -13867,7 +13799,7 @@
    "HRM357 (POE, Closed Book)"
   ],
   "students": "89",
-  "pe": "Dr Charissa Tan *Report at C.4.08",
+  "pe": "A/P Benjamin Loh *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Gerald Wong",
@@ -13882,7 +13814,7 @@
    "SPE103 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Sebastian Caroline Ann",
@@ -13897,7 +13829,7 @@
    "SPE103 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Sherine Goh",
@@ -13912,7 +13844,7 @@
    "SPE103 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Anthony Tan Chin Lok",
@@ -13927,7 +13859,7 @@
    "POL101 (POE, Open Book)"
   ],
   "students": "65",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Wong Chong Kai",
@@ -13942,7 +13874,7 @@
    "POL101 (POE, Open Book)"
   ],
   "students": "65",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Linda Yiu",
@@ -13957,7 +13889,7 @@
    "POL101 (POE, Open Book)"
   ],
   "students": "65",
-  "pe": "Dr Eunice Tan *Report at C.4.12",
+  "pe": "Prof Timothy Sim *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Serene Teo",
@@ -14035,7 +13967,7 @@
   "pe": "A/P Hu Shu *CL *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Winston Wee",
   "understudy": false
  },
  {
@@ -14095,7 +14027,7 @@
   "pe": "Dr Chung Ning Ning *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "June Kwok",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -14356,7 +14288,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Marie Lur",
@@ -14371,7 +14303,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Sharon Goh Siew Hong",
@@ -14661,7 +14593,7 @@
   "pe": "Nicholas Netto *CL *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Gerald Wong",
   "understudy": false
  },
  {
@@ -14676,7 +14608,7 @@
    "FSS335 (POE, Closed Book)"
   ],
   "students": "77",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Eve Yong",
@@ -14691,7 +14623,7 @@
    "ICT330 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Lim Suan Kiow",
@@ -14799,7 +14731,7 @@
   "pe": "Benny Chwee *Report at C.5.11",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Susan Chong",
+  "name": "Angeline Ee",
   "understudy": false
  },
  {
@@ -14826,7 +14758,7 @@
    "EAS301 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "42",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Patricia Ang",
@@ -14841,7 +14773,7 @@
    "HFS303 (Written Exam, Closed Book)"
   ],
   "students": "63",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Joanne Hong",
@@ -14856,7 +14788,7 @@
    "HFS303 (Written Exam, Closed Book)"
   ],
   "students": "63",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "3",
   "role": "Chief Invigilator (Understudy)",
   "name": "Lawrence Lim",
@@ -15233,7 +15165,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lam Tze Ching",
@@ -15248,7 +15180,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jenny Goh",
@@ -15263,7 +15195,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Satvinder Kaur",
@@ -15278,7 +15210,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Angela Foong",
@@ -15293,7 +15225,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lim Suan Kiow",
@@ -15308,7 +15240,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Vincent Lim",
@@ -15323,7 +15255,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Tan Yianna",
@@ -15338,7 +15270,7 @@
    "ACC202 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Teng Yun *Report at C.4.08",
+  "pe": "Dr Xu Weibiao *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Seetho Hiong Lan",
@@ -15446,7 +15378,7 @@
   "pe": "Dr Lukas Johannes Helikum *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Linda Yiu",
+  "name": "Law Chai Swan",
   "understudy": false
  },
  {
@@ -15704,7 +15636,7 @@
   "pe": "Dr Lo Swee Won *CL Patricia Wee (US) *Report at C.5.11",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Joyce Lai",
+  "name": "Lawrence Ku",
   "understudy": false
  },
  {
@@ -16065,7 +15997,7 @@
    "FSS335 (POE, Closed Book)"
   ],
   "students": "77",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Elena Goo",
@@ -16083,7 +16015,7 @@
    "FSS335 (POE, Closed Book)"
   ],
   "students": "77",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Lam Tze Ching",
@@ -16101,7 +16033,7 @@
    "FSS335 (POE, Closed Book)"
   ],
   "students": "77",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Satvinder Kaur",
@@ -16116,7 +16048,7 @@
    "ICT330 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Alvin Wong",
@@ -16131,7 +16063,7 @@
    "ICT330 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Constance Ho",
@@ -16146,7 +16078,7 @@
    "ICT330 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Seetho Hiong Lan",
@@ -16161,7 +16093,7 @@
    "ICT330 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Prof Timothy Sim *Report at C.4.08",
+  "pe": "Dr Eunice Tan *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Goh Soh Shan",
@@ -16179,7 +16111,7 @@
   "pe": "Dr Zhan Huijing Dr Wang Jiawei (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Ruby Wee",
   "understudy": false
  },
  {
@@ -16269,7 +16201,7 @@
   "pe": "Dr Zhan Huijing Dr Wang Jiawei (US) *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Naseem Huseni Tayabali",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -16536,7 +16468,7 @@
    "EAS301 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "42",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Low Kim Yong",
@@ -16551,7 +16483,7 @@
    "EAS301 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "42",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Audrey Tay",
@@ -16566,7 +16498,7 @@
    "HFS303 (Written Exam, Closed Book)"
   ],
   "students": "63",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Emily Heng",
@@ -16581,7 +16513,7 @@
    "HFS303 (Written Exam, Closed Book)"
   ],
   "students": "63",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Rena Lau",
@@ -16596,7 +16528,7 @@
    "HFS303 (Written Exam, Closed Book)"
   ],
   "students": "63",
-  "pe": "A/P Adrian Kwek *Report at C.6.05",
+  "pe": "Dr Evelyn Gay *Report at C.6.05",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Tan Keng Geok",
@@ -16629,7 +16561,7 @@
   "pe": "A/P Low Wai Ping *CL Dr Lan Zirui (US)",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Gerald Wong",
+  "name": "Catherine Tai",
   "understudy": false
  },
  {
@@ -16671,7 +16603,7 @@
    "SWK354 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Sebastian Caroline Ann",
@@ -16687,7 +16619,7 @@
    "SCM355 (POE, Closed Book)"
   ],
   "students": "64",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Maheswari",
@@ -16751,7 +16683,7 @@
   "pe": "Dr Yong Ming Li *Report at C.4.12",
   "n_invig": "2",
   "role": "Chief Invigilator",
-  "name": "Naseem Huseni Tayabali",
+  "name": "Linda Yiu",
   "understudy": false
  },
  {
@@ -16980,10 +16912,10 @@
    "SWK354 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -16995,7 +16927,7 @@
    "SWK354 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Belinda Ho",
@@ -17010,7 +16942,7 @@
    "SWK354 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Justina Quek",
@@ -17025,7 +16957,7 @@
    "SWK354 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Raghbir Singh",
@@ -17041,10 +16973,10 @@
    "SCM355 (POE, Closed Book)"
   ],
   "students": "64",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -17057,7 +16989,7 @@
    "SCM355 (POE, Closed Book)"
   ],
   "students": "64",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Angela Yip",
@@ -17073,7 +17005,7 @@
    "SCM355 (POE, Closed Book)"
   ],
   "students": "64",
-  "pe": "Dr Xiao Zengqi *Report at C.3.08",
+  "pe": "A/P Yap Wei Yim *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Delia Ng",
@@ -17184,7 +17116,7 @@
   "pe": "Dr Yong Ming Li *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Candy Tan",
+  "name": "Wong Chang Boon",
   "understudy": false
  },
  {
@@ -17259,7 +17191,7 @@
   "pe": "Dr Yong Ming Li *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Susan Chong",
+  "name": "Linda Quek",
   "understudy": false
  },
  {
@@ -17289,7 +17221,7 @@
   "pe": "Dr Yong Ming Li *Report at C.4.12",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Celine Cheong",
+  "name": "Merlyn Lee",
   "understudy": false
  },
  {
@@ -17865,7 +17797,7 @@
   "pe": "Dr Terence Yow *CL *Report at C.3.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Gerald Wong",
   "understudy": false
  },
  {
@@ -17894,26 +17826,11 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Vera Lui",
   "understudy": false
- },
- {
-  "page": 11,
-  "date": "17-Nov-26 (Tue)",
-  "time": "01:00 PM - 03:00 PM",
-  "venue": "HQ, BLK C-SR C.4.08",
-  "courses": [
-   "FIN304 (POE, Closed Book)"
-  ],
-  "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
-  "n_invig": "4",
-  "role": "Chief Invigilator (Understudy)",
-  "name": "Faith Lim",
-  "understudy": true
  },
  {
   "page": 11,
@@ -17924,7 +17841,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Eve Yong",
@@ -17939,10 +17856,10 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Susan Chong",
+  "name": "Angeline Ee",
   "understudy": false
  },
  {
@@ -17954,7 +17871,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
   "name": "Raneeta Mutiara",
@@ -17970,7 +17887,7 @@
    "POL203 (POE, Open Book)"
   ],
   "students": "37",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Joanne Hong",
@@ -17985,7 +17902,7 @@
    "SOC207 (POE, Open Book)"
   ],
   "students": "99",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Winston Wee",
@@ -18356,7 +18273,7 @@
   "pe": "Dr Ren Jing Dr Lim Kwan Hui (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Lawrence Ku",
+  "name": "Kenny Lim",
   "understudy": false
  },
  {
@@ -18401,7 +18318,7 @@
   "pe": "Dr Ren Jing Dr Lim Kwan Hui (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Linda Quek",
+  "name": "Low Kim Yong",
   "understudy": false
  },
  {
@@ -18446,7 +18363,7 @@
   "pe": "Dr Ren Jing Dr Lim Kwan Hui (US) *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Seetho Hiong Lan",
+  "name": "Raghbir Singh",
   "understudy": false
  },
  {
@@ -18675,7 +18592,7 @@
   "pe": "Dr Grace Chee *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Satvinder Kaur",
+  "name": "Sheila Aw",
   "understudy": false
  },
  {
@@ -18753,7 +18670,7 @@
   "pe": "Dr Zhou Shihao *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Tan Yianna",
+  "name": "Jeanne Ng",
   "understudy": false
  },
  {
@@ -19000,7 +18917,7 @@
   "pe": "Dr Terence Yow *CL *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
-  "name": "Linda Quek",
+  "name": "Low Kim Yong",
   "understudy": false
  },
  {
@@ -19063,10 +18980,10 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Jenny Goh",
   "understudy": false
  },
  {
@@ -19078,7 +18995,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Patricia Ang",
@@ -19093,7 +19010,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Joyce Lai",
@@ -19108,7 +19025,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Naseem Huseni Tayabali",
@@ -19123,7 +19040,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Esther Wong",
@@ -19138,7 +19055,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "June Kwok",
@@ -19153,7 +19070,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Alex Tan",
@@ -19168,7 +19085,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Xia Chongwu *Report at C.4.08",
+  "pe": "Dr Ding Qinxu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Ong Yuin Ling",
@@ -19183,7 +19100,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Mohd Raffid",
@@ -19198,7 +19115,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Elena Goo",
@@ -19213,7 +19130,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Soh Poh Suan",
@@ -19228,7 +19145,7 @@
    "FIN304 (POE, Closed Book)"
   ],
   "students": "100",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Luk Lee Lieng",
@@ -19244,10 +19161,10 @@
    "POL203 (POE, Open Book)"
   ],
   "students": "37",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Karen Goh",
+  "name": "Tracey Tan",
   "understudy": false
  },
  {
@@ -19260,7 +19177,7 @@
    "POL203 (POE, Open Book)"
   ],
   "students": "37",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Low Wai Leng",
@@ -19275,7 +19192,7 @@
    "SOC207 (POE, Open Book)"
   ],
   "students": "99",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Ang Li Kar",
@@ -19290,7 +19207,7 @@
    "SOC207 (POE, Open Book)"
   ],
   "students": "99",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Serene Low",
@@ -19305,7 +19222,7 @@
    "SOC207 (POE, Open Book)"
   ],
   "students": "99",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jennifer Pang",
@@ -19320,7 +19237,7 @@
    "SOC207 (POE, Open Book)"
   ],
   "students": "99",
-  "pe": "Dr Ooi Seok Hui *Report at C.4.12",
+  "pe": "Dr Natasha Nur Singh Riard *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Audrey Tay",
@@ -19353,7 +19270,7 @@
   "pe": "Dr Xu Jianxiong *CL *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Sum Kwai Siong",
   "understudy": false
  },
  {
@@ -19551,7 +19468,7 @@
   "pe": "A/P Bheema Thiagarajan Lokesh *Report at C.5.11",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Gerald Wong",
+  "name": "Lee Li Lim",
   "understudy": false
  },
  {
@@ -19703,7 +19620,7 @@
   "pe": "A/P Wang Yue *Report at C.6.09",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Serene Teo",
+  "name": "Justina Quek",
   "understudy": false
  },
  {
@@ -19745,7 +19662,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Marie Lur",
@@ -19760,7 +19677,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Esther Wong",
@@ -20009,10 +19926,10 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Susan Chong",
+  "name": "Wong Chang Boon",
   "understudy": false
  },
  {
@@ -20024,7 +19941,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Delia Ng",
@@ -20039,7 +19956,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Maria Binte Amri",
@@ -20054,7 +19971,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Naseem Huseni Tayabali",
@@ -20069,7 +19986,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Eve Yong",
@@ -20084,7 +20001,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Belinda Ho",
@@ -20099,7 +20016,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Irene Peh",
@@ -20114,7 +20031,7 @@
    "PSY108 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Janice Tan Soo Ling *Report at C.4.08",
+  "pe": "Dr Vincent Oh *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Betty Gan",
@@ -20147,7 +20064,7 @@
   "pe": "Dr Leck Wan Qing *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Seetho Hiong Lan",
+  "name": "Raghbir Singh",
   "understudy": false
  },
  {
@@ -20495,7 +20412,7 @@
   "pe": "A/P Caroline Lim",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Merlyn Lee",
+  "name": "Kenny Lim",
   "understudy": false
  },
  {
@@ -20570,7 +20487,7 @@
   "pe": "Dr Bernardine Low *Report at C.3.08",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Jasmine Sng",
   "understudy": false
  },
  {
@@ -20703,7 +20620,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Marie Lur",
@@ -20719,7 +20636,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
   "name": "Wendy Pang",
@@ -20734,7 +20651,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Josephine Ng Seok",
@@ -20843,7 +20760,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Alvin Wong",
@@ -20858,7 +20775,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator (Understudy)",
   "name": "Johanna Priya Nair",
@@ -20874,7 +20791,7 @@
    "ECC305 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Lim Suan Kiow",
@@ -20954,7 +20871,7 @@
   "pe": "A/P Yuan Xuchuan *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator",
-  "name": "Jolene Ang",
+  "name": "Susan Chong",
   "understudy": false
  },
  {
@@ -20996,7 +20913,7 @@
    "FMT201 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "90",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Elaine Lim Mui Ling",
@@ -21012,7 +20929,7 @@
    "MTH352 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "60",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Asmarina",
@@ -21042,7 +20959,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Tommy Ong",
@@ -21057,7 +20974,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Emily Heng",
@@ -21073,7 +20990,7 @@
    "BME215 (POE, Closed Book)"
   ],
   "students": "82",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "3",
   "role": "Chief Invigilator",
   "name": "Marie Lur",
@@ -21088,7 +21005,7 @@
    "ICT348 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Sebastian Caroline Ann",
@@ -21201,21 +21118,6 @@
   "role": "Chief Invigilator",
   "name": "Vera Lui",
   "understudy": false
- },
- {
-  "page": 13,
-  "date": "18-Nov-26 (Wed)",
-  "time": "04:00 PM - 07:00 PM",
-  "venue": "HQ, BLK C-SR C.3.12",
-  "courses": [
-   "LAW311* (e-Exam, Examplify)"
-  ],
-  "students": "79",
-  "pe": "Samuel Chua *CL",
-  "n_invig": "3",
-  "role": "Chief Invigilator (Understudy)",
-  "name": "Shum Chee Keong",
-  "understudy": true
  },
  {
   "page": 13,
@@ -21606,7 +21508,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lawrence Ku",
@@ -21622,7 +21524,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Grace Goh",
@@ -21638,7 +21540,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Tan Yianna",
@@ -21654,7 +21556,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "91",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Audrey Tay",
@@ -21669,7 +21571,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Tan Siew Neo",
@@ -21684,7 +21586,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jocelyn Lim",
@@ -21699,7 +21601,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Sherlynn Toh",
@@ -21714,7 +21616,7 @@
    "MKT368 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "Dr Priyanka Gupta *Report at C.4.08",
+  "pe": "Dr Karl Wu *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Lawrence Lim",
@@ -21902,7 +21804,7 @@
   "pe": "Dr Tristan Lim *Report at C.5.07",
   "n_invig": "1",
   "role": "Invigilator",
-  "name": "Angeline Ee",
+  "name": "Jennifer Pang",
   "understudy": false
  },
  {
@@ -21914,7 +21816,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Low How Choi",
@@ -21929,7 +21831,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Tommy Ong",
@@ -21944,7 +21846,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Roslyn Tan",
@@ -21959,7 +21861,7 @@
    "COM301 (POE, Closed Book)"
   ],
   "students": "101",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Vera Lui",
@@ -21975,7 +21877,7 @@
    "ECC305 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Doris Heng",
@@ -21991,7 +21893,7 @@
    "ECC305 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Emily Heng",
@@ -22007,7 +21909,7 @@
    "ECC305 (POE, Closed Book)"
   ],
   "students": "62",
-  "pe": "A/P Brian Lee Dr Li Zhengqing (US) *Report at C.3.08",
+  "pe": "A/P Brian Lee *Report at C.3.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Cheng Tian Yee",
@@ -22118,7 +22020,7 @@
   "pe": "A/P Yuan Xuchuan *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Karen Goh",
+  "name": "Lawrence Ku",
   "understudy": false
  },
  {
@@ -22208,7 +22110,7 @@
   "pe": "A/P Yuan Xuchuan *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shum Chee Keong",
+  "name": "Eric Teo",
   "understudy": false
  },
  {
@@ -22250,7 +22152,7 @@
    "FMT201 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "90",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Casey Seto",
@@ -22265,7 +22167,7 @@
    "FMT201 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "90",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Rachel Wong",
@@ -22280,7 +22182,7 @@
    "FMT201 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "90",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "June Kwok",
@@ -22296,7 +22198,7 @@
    "MTH352 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "60",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Karen Chang",
@@ -22312,7 +22214,7 @@
    "MTH352 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "60",
-  "pe": "Dr Chin Hui Wen *Report at C.5.07",
+  "pe": "Dr Aletheia Lee *Report at C.5.07",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Betty Gan",
@@ -22357,7 +22259,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Constance Ho",
@@ -22372,7 +22274,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Sim Boh Hoon",
@@ -22387,7 +22289,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Jeanne Ng",
@@ -22402,7 +22304,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Linda Quek",
@@ -22417,7 +22319,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Laura Lee",
@@ -22432,7 +22334,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Candy Tan",
@@ -22447,10 +22349,10 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Sum Kwai Siong",
+  "name": "Seah Lay Kheng",
   "understudy": false
  },
  {
@@ -22462,7 +22364,7 @@
    "HRM203 (POE, Closed Book)"
   ],
   "students": "103",
-  "pe": "A/P Benjamin Loh *Report at C.3.08",
+  "pe": "Dr Charissa Tan *Report at C.3.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Premkumar",
@@ -22478,7 +22380,7 @@
    "BME215 (POE, Closed Book)"
   ],
   "students": "82",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Ang Li Kar",
@@ -22494,7 +22396,7 @@
    "BME215 (POE, Closed Book)"
   ],
   "students": "82",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Delia Ng",
@@ -22510,7 +22412,7 @@
    "BME215 (POE, Closed Book)"
   ],
   "students": "82",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "3",
   "role": "Invigilator",
   "name": "Ricky Leow",
@@ -22525,7 +22427,7 @@
    "ICT348 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Elaine Lim Mui Ling",
@@ -22540,10 +22442,10 @@
    "ICT348 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Justina Quek",
+  "name": "Serene Teo",
   "understudy": false
  },
  {
@@ -22555,7 +22457,7 @@
    "ICT348 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Kenny Lim",
@@ -22570,7 +22472,7 @@
    "ICT348 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "103",
-  "pe": "Dr Serena Seah *Report at C.4.08",
+  "pe": "Dr Sunny Leong *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Goh Soh Shan",
@@ -22589,7 +22491,7 @@
   "pe": "A/P June Tay *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Jolene Ang",
+  "name": "Susan Chong",
   "understudy": false
  },
  {
@@ -22716,7 +22618,7 @@
   "pe": "Dr Wong Wee Boon *Report at C.6.09",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Shirley Goh",
+  "name": "Patricia Yan",
   "understudy": false
  },
  {
@@ -22746,7 +22648,7 @@
   "pe": "Dr Wong Wee Boon *Report at C.6.09",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Lee Li Lim",
+  "name": "Seetho Hiong Lan",
   "understudy": false
  },
  {
@@ -23129,7 +23031,7 @@
   "pe": "A/P Jiang Zhiying *Report at C.3.08",
   "n_invig": "3",
   "role": "Chief Invigilator (Understudy)",
-  "name": "Celeste Koh",
+  "name": "Fancy Ng",
   "understudy": true
  },
  {
@@ -23512,7 +23414,7 @@
   "pe": "",
   "n_invig": "3",
   "role": "Standby Chief Invigilator (POE)",
-  "name": "Mohammad Ayaz",
+  "name": "Jesslyn Chia",
   "understudy": false
  },
  {
@@ -23538,7 +23440,7 @@
   "pe": "",
   "n_invig": "3",
   "role": "Standby Chief Invigilator (Written)",
-  "name": "Janice Lim",
+  "name": "Azie",
   "understudy": false
  },
  {
@@ -23925,7 +23827,7 @@
   "pe": "Dr Vicky Kuo *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Jennifer Pang",
+  "name": "June Kwok",
   "understudy": false
  },
  {
@@ -24030,7 +23932,7 @@
   "pe": "Dr Vicky Kuo *Report at C.4.12",
   "n_invig": "1",
   "role": "Invigilator",
-  "name": "Tan Siew Neo",
+  "name": "Serene Low",
   "understudy": false
  },
  {
@@ -24060,7 +23962,7 @@
   "pe": "Dr Michael Kent *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Joyce Lai",
+  "name": "Low Kim Yong",
   "understudy": false
  },
  {
@@ -24105,7 +24007,7 @@
   "pe": "Dr Michael Kent *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Eliza Nashita Ng",
+  "name": "Tracey Tan",
   "understudy": false
  },
  {
@@ -24449,7 +24351,7 @@
   "pe": "Dr Chan Yon Sin *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Tan Siew Neo",
+  "name": "Roslyn Tan",
   "understudy": false
  },
  {
@@ -24669,7 +24571,7 @@
   "pe": "Dr Ng Siew Chin *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Jeanne Ng",
+  "name": "Justina Quek",
   "understudy": false
  },
  {
@@ -24897,7 +24799,7 @@
   "pe": "Dr Fan Zengyan *Report at C.5.07",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Merlyn Lee",
+  "name": "Winston Wee",
   "understudy": false
  },
  {
@@ -25172,7 +25074,7 @@
   "pe": "A/P Ng Kai Teck *Report at C.3.08",
   "n_invig": "2",
   "role": "Chief Invigilator",
-  "name": "Sharon Goh Siew Hong",
+  "name": "Lim Suan Kiow",
   "understudy": false
  },
  {
@@ -25216,7 +25118,7 @@
    "INT323 (POE, Open Book)"
   ],
   "students": "48",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "2",
   "role": "Chief Invigilator",
   "name": "Karen Goh",
@@ -25232,7 +25134,7 @@
    "FMT307 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "98",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Chief Invigilator",
   "name": "Elaine Lim Mui Ling",
@@ -25663,7 +25565,7 @@
   "pe": "Dr Rosleenda Ali *Report at C.4.08",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Joyce Lai",
+  "name": "Lawrence Ku",
   "understudy": false
  },
  {
@@ -25754,10 +25656,10 @@
    "INT323 (POE, Open Book)"
   ],
   "students": "48",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
-  "name": "Eliza Nashita Ng",
+  "name": "Tracey Tan",
   "understudy": false
  },
  {
@@ -25770,7 +25672,7 @@
    "INT323 (POE, Open Book)"
   ],
   "students": "48",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "2",
   "role": "Invigilator",
   "name": "Lam Tze Ching",
@@ -25786,7 +25688,7 @@
    "FMT307 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "98",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Sherine Goh",
@@ -25802,7 +25704,7 @@
    "FMT307 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "98",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Serene Teo",
@@ -25818,7 +25720,7 @@
    "FMT307 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "98",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Maria Binte Amri",
@@ -25834,7 +25736,7 @@
    "FMT307 (Written Exam, Open Book with e-Textbook & iSG)"
   ],
   "students": "98",
-  "pe": "A/P Walter Edgar Theseira *CL *Report at C.4.12",
+  "pe": "A/P Walter Edgar Theseira *CL Dr Li Zhengqing (US) *Report at C.4.12",
   "n_invig": "4",
   "role": "Invigilator",
   "name": "Low Kim Yong",
@@ -26389,7 +26291,7 @@
   "pe": "Dr Jay Bae Jonghyuk *Report at C.6.09",
   "n_invig": "4",
   "role": "Invigilator",
-  "name": "Sum Kwai Siong",
+  "name": "Winston Wee",
   "understudy": false
  },
  {

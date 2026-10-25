@@ -1,6 +1,6 @@
 # Bobby Wong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **1 duty** · Wed 11 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.10** | BUS205* (POE, Closed Book) | Elaine Lim Mui Ling, Bobby Wong (US) | A/P Lam Chen Meng (CL) Dr Harry Lim (US) · reports at C.3.08 |
+| 1 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.10** | BUS205* (POE, Closed Book) | Elaine Lim Mui Ling, Bobby Wong (US) | A/P Lam Chen Meng (CL) · reports at C.3.08 |
 
 ## Reporting
 

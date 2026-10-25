@@ -1,6 +1,6 @@
 # Tommy Ong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **18 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -23,8 +23,8 @@ Roles: Chief Invigilator × 10, Chief Invigilator (Understudy) × 1, Invigilator
 | 11 | Mon 16 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Chief Invigilator | **C.6.05** | SWK505 (POE, Closed Book)<br>SWK507 (POE, Closed Book) | *(you)* | Tommy Yee · reports at C.6.05 |
 | 12 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.11** | BUS308* (Written Exam, Open Book with e-Textbook & iSG)<br>ENG201 (Written Exam, Open Book with e-Textbook & iSG) | Roslyn Tan | A/P Bheema Thiagarajan Lokesh · reports at C.5.11 |
 | 13 | Tue 17 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.5.11** | BPM307 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Manivannan Murugesan (CL) · reports at C.5.11 |
-| 14 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | COM301 (POE, Closed Book) | Alvin Wong, Johanna Priya Nair (US) | A/P Brian Lee Dr Li Zhengqing (US) · reports at C.3.08 |
-| 15 | Wed 18 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.08** | HRM203 (POE, Closed Book) | *(you)* | A/P Benjamin Loh · reports at C.3.08 |
+| 14 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | COM301 (POE, Closed Book) | Alvin Wong, Johanna Priya Nair (US) | A/P Brian Lee · reports at C.3.08 |
+| 15 | Wed 18 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.08** | HRM203 (POE, Closed Book) | *(you)* | Dr Charissa Tan · reports at C.3.08 |
 | 16 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.12** | MKT351 (POE, Closed Book) | *(you)* | Dr Vicky Kuo · reports at C.4.12 |
 | 17 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.14** | EMT309 (Written Exam, Closed Book) | Joanna Toh | Dr Ben Chester · reports at C.4.12 |
 | 18 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.12** | FMT205 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Li Jiayao · reports at C.4.12 |

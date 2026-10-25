@@ -1,6 +1,6 @@
 # Ryan Hidayat Sulaiman — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **1 duty** · Tue 10 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.08** | COM223 (POE, Closed Book) | Joanne Hong, Ryan Hidayat Sulaiman (US) | Jeremy Ang Dr Thomas Fan (US) · reports at C.3.08 |
+| 1 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.08** | COM223 (POE, Closed Book) | Joanne Hong, Ryan Hidayat Sulaiman (US) | Dr Ooi Seok Hui Dr Thomas Fan (US) · reports at C.3.08 |
 
 ## Reporting
 

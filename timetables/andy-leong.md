@@ -1,6 +1,6 @@
 # Andy Leong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **10 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -13,7 +13,7 @@ Roles: Invigilator × 10
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.7.08** | SST101 (Written Exam, Open Book with e-Textbook & iSG) | Jenn Wong | A/P Lin Feng · reports at C.7.08 |
 | 2 | Tue 10 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.5.09** | ECC502 (POE, Closed Book)<br>IPM501 (POE, Closed Book)<br>MIP501 (POE, Closed Book)<br>SWK511 (POE, Closed Book) | Wong Chong Kai | A/P Joicey Wei · reports at C.5.07 |
 | 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.6.05** | ICT318 (Written Exam, Open Book with e-Textbook & iSG) | Esther Wong, Koh Chee Han (US) | Ruth Yeo · reports at C.6.05 |
-| 4 | Wed 11 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.6.11** | SWK501 (POE, Closed Book) | Sebastian Caroline Ann | Dr Yu Chou Chuen · reports at C.6.09 |
+| 4 | Wed 11 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.6.11** | SWK501 (POE, Closed Book) | Linda Yiu | Dr Yu Chou Chuen · reports at C.6.09 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.12** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | Rachel Wong | Dr Cheng Ningning · reports at C.6.09 |
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.3.10** | SCM101* (POE, Closed Book) | Cynthia Asio | Chee Wai Meng (CL) · reports at C.3.08 |
 | 7 | Fri 13 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.3.12** | MLL305 (Written Exam, Closed Book)<br>TLL302 (Written Exam, Closed Book) | Alvin Wong | Dr Che Maohao |

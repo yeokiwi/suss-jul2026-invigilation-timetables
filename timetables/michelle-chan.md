@@ -1,8 +1,10 @@
 # Michelle Chan — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
-**0 duties** + **1 standby** · Thu 12 Nov 2026
+> **Changed since v1 (16 Oct 2026):** 1 removed · 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+
+**0 duties** + **1 standby** · Tue 10 Nov 2026
 
 Roles: Standby Chief Invigilator (POE) × 1
 
@@ -10,7 +12,12 @@ Roles: Standby Chief Invigilator (POE) × 1
 
 | # | Date | Session | Report By | Role |
 |---|---|---|---|---|
-| 1 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Standby Chief Invigilator (POE) |
+| 1 | Tue 10 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Standby Chief Invigilator (POE) |
+
+## Changes since v1 (16 Oct 2026)
+
+- ~~Thu 12 Nov 2026, 10:00 AM – 12:00 PM · Standby Chief Invigilator (POE)~~ — **removed**
+- Tue 10 Nov 2026, 4:00 PM – 7:00 PM · Standby Chief Invigilator (POE) — **added**
 
 ## Reporting
 

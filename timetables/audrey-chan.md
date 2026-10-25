@@ -1,21 +1,9 @@
 # Audrey Chan — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
-**1 duty** · Wed 11 Nov 2026
+**No duties in roster v2.** All duties from roster v1 (16 Oct 2026) were removed:
 
-Roles: Chief Invigilator (Understudy) × 1
-
-## Duties
-
-| # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
-|---|---|---|---|---|---|---|---|---|
-| 1 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.4.08** | ELT201 (POE, Closed Book)<br>MTD113 (POE, Closed Book) | Low Wai Leng, Audrey Chan (US) | A/P Ludwig Tan · reports at C.4.08 |
-
-## Reporting
-
-- Report **1 hour before** the exam starts at **Block C, Exam Room C.2.05 (Level 2)**.
-- Take the lift from **Lobby C3** (behind Starbucks); avoid the lift at Lobby C2 (restricted access).
-- Can't make a duty (main or standby)? Arrange a mutual swap or replacement and inform the EA Department (cc the person swapping).
+- ~~Wed 11 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator (Understudy) · C.4.08 · ELT201, MTD113~~
 
 [← All invigilators](../README.md)

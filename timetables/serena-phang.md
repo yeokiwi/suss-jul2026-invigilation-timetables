@@ -1,6 +1,6 @@
 # Serena Phang — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **14 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -17,7 +17,7 @@ Roles: Chief Invigilator × 7, Chief Invigilator (Understudy) × 1, Invigilator 
 | 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.14** | MTM356* (POE, Open Book) | *(you)* | A/P Yap Wei Yim (CL) · reports at C.4.12 |
 | 6 | Fri 13 Nov 2026 | 10:00 AM – 1:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **INTERPRETATION LAB 1, BLK C, C.5.01** | MLL315 (Interpretation Lab Exam) | Low How Choi, Serena Phang (US) | A/P Lim Beng Soon |
 | 7 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.15** | ABS105 (POE, Open Book)<br>CCC101 (POE, Open Book) | Wong Chong Kai | Dr George Wong · reports at C.4.12 |
-| 8 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.15** | POL101 (POE, Open Book) | *(you)* | Dr Eunice Tan · reports at C.4.12 |
+| 8 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.15** | POL101 (POE, Open Book) | *(you)* | Prof Timothy Sim · reports at C.4.12 |
 | 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.14** | ACC202 (POE, Closed Book) | Serene Low | Dr Lukas Johannes Helikum · reports at C.4.12 |
 | 10 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.14** | CCC103 (POE, Open Book) | *(you)* | Dr Zhan Huijing Dr Wang Jiawei (US) · reports at C.4.12 |
 | 11 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.05** | ANL305R (Written Exam, Closed Book)<br>CHS301 (Written Exam, Closed Book) | Rachel Wong | Michael Ng |

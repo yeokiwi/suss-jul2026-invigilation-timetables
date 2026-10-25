@@ -1,6 +1,6 @@
 # Karen Lim Kim Eng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **6 duties** · Tue 10 Nov 2026 to Thu 12 Nov 2026
 
@@ -12,7 +12,7 @@ Roles: Invigilator × 6
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | ANL303 (POE, Closed Book) | Mohd Raffid | A/P James Tan · reports at C.4.12 |
 | 2 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | SCM201 (POE, Closed Book) | Karen Chang | Dr Sugoutam Ghosh Leon Lim (US) · reports at C.4.12 |
-| 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | MKT202 (POE, Closed Book) | Sebastian Caroline Ann, Charmaine Wong (US) | Dr Joanne Ho Dr Kenan Kok (US) · reports at C.4.12 |
+| 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | MKT202 (POE, Closed Book) | Sebastian Caroline Ann | Dr Joanne Ho Dr Kenan Kok (US) · reports at C.4.12 |
 | 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | FLM101 (POE, Closed Book)<br>SPE101 (POE, Closed Book) | Asmarina | A/P Eugene Chew · reports at C.4.12 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.10** | SCM353 (POE, Closed Book) | Elaine Lim Mui Ling | A/P Tan Yan Weng · reports at C.3.08 |
 | 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.10** | HRM333 (POE, Closed Book) | Alvin Wong | A/P Wang Jiun-Wen · reports at C.3.08 |

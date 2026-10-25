@@ -1,6 +1,6 @@
 # Nur Hanifah — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **1 duty** · Wed 11 Nov 2026
 

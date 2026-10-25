@@ -68,8 +68,7 @@ def md_escape(s):
     return s.replace("|", "\\|")
 
 
-def main(src, out):
-    recs = json.load(open(src))
+def enrich(recs):
     for r in recs:
         d = parse_date(r["date"])
         s, e = parse_time(r["time"])
@@ -78,6 +77,36 @@ def main(src, out):
         r["time_label"] = f"{fmt_t(s)} – {fmt_t(e)}"
         r["report_label"] = fmt_t(s - dt.timedelta(hours=1))
         r["venue_short"] = short_venue(r["venue"])
+    return recs
+
+
+def dkey(r):
+    return (r["role"], r["date"], r["time"], r["venue"])
+
+
+def duty_line(r):
+    where = f" · {r['venue_short']}" if r["venue"] else ""
+    what = f" · {', '.join(c.split(' (')[0] for c in r['courses'])}" if r["courses"] else ""
+    return f"{r['date_label']}, {r['time_label']} · {r['role']}{where}{what}"
+
+
+def person_changes(old_rs, new_rs):
+    """Duties removed from / added to one person between two roster versions."""
+    o = {dkey(r): r for r in old_rs}
+    n = {dkey(r): r for r in new_rs}
+    order = lambda r: (r["_d"], r["_s"])
+    removed = sorted((o[k] for k in o.keys() - n.keys()), key=order)
+    added = sorted((n[k] for k in n.keys() - o.keys()), key=order)
+    return removed, added
+
+
+def main(src, out, source_label, prev=None, prev_label="previous roster"):
+    recs = enrich(json.load(open(src)))
+    old = enrich(json.load(open(prev))) if prev else []
+    old_people = collections.defaultdict(list)
+    for r in old:
+        old_people[r["name"]].append(r)
+    changes = {}
 
     # chief invigilator per venue-session, for invigilators' reference
     ci = collections.defaultdict(list)
@@ -102,7 +131,16 @@ def main(src, out):
         index.append((name, len(main_duties), len(standby), roles, rs))
 
         L = [f"# {name} — Invigilation Timetable", "",
-             "SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026", ""]
+             f"SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster {source_label}", ""]
+        if prev:
+            removed, added = person_changes(old_people.get(name, []), rs)
+            if removed or added:
+                changes[name] = (removed, added)
+                L += [f"> **Changed since {prev_label}:** "
+                      + (f"{len(removed)} removed" if removed else "")
+                      + (" · " if removed and added else "")
+                      + (f"{len(added)} added" if added else "")
+                      + " — see [Changes](#changes-since-" + slug(prev_label) + ") below.", ""]
         span = f"{rs[0]['date_label']} to {rs[-1]['date_label']}" if len(rs) > 1 else rs[0]["date_label"]
         L.append(f"**{len(main_duties)} {'duty' if len(main_duties) == 1 else 'duties'}**"
                  + (f" + **{len(standby)} standby**" if standby else "")
@@ -140,6 +178,12 @@ def main(src, out):
             L += ["> **Back-to-back:** " + "; ".join(b2b)
                   + ". The next session's reporting time falls before the previous one ends — "
                   "check the changeover with the EA Department.", ""]
+        if name in changes:
+            removed, added = changes[name]
+            L += [f"## Changes since {prev_label}", ""]
+            L += [f"- ~~{duty_line(r)}~~ — **removed**" for r in removed]
+            L += [f"- {duty_line(r)} — **added**" for r in added]
+            L.append("")
         L += ["## Reporting", "",
               "- Report **1 hour before** the exam starts at **Block C, Exam Room C.2.05 (Level 2)**.",
               "- Take the lift from **Lobby C3** (behind Starbucks); avoid the lift at Lobby C2 (restricted access).",
@@ -149,14 +193,56 @@ def main(src, out):
         with open(os.path.join(out, "timetables", slug(name) + ".md"), "w") as f:
             f.write("\n".join(L))
 
+    # people who had duties in the previous roster but none now: keep a page so links don't break
+    dropped = sorted((n for n in old_people if n not in people), key=str.lower)
+    for name in dropped:
+        rs = sorted(old_people[name], key=lambda r: (r["_d"], r["_s"]))
+        changes[name] = (rs, [])
+        L = [f"# {name} — Invigilation Timetable", "",
+             f"SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster {source_label}", "",
+             f"**No duties in roster {source_label.split(' ')[0]}.** All duties from roster {prev_label} were removed:", ""]
+        L += [f"- ~~{duty_line(r)}~~" for r in rs]
+        L += ["", "[← All invigilators](../README.md)", ""]
+        with open(os.path.join(out, "timetables", slug(name) + ".md"), "w") as f:
+            f.write("\n".join(L))
+
+    if prev:
+        C = [f"# Changes: {prev_label} → {source_label}", "",
+             f"Duties that changed between roster {prev_label} and roster {source_label}. "
+             "In the roster PDF, removed names are struck through with the replacement written beside them. "
+             "Slots handed to **Temp Staff** show only as a removal.", "",
+             f"- **{len(changes)} people affected** · "
+             f"**{sum(len(v[0]) for v in changes.values())} duties removed** · "
+             f"**{sum(len(v[1]) for v in changes.values())} duties added**", ""]
+        if dropped:
+            C += ["**No longer on the roster:** " + ", ".join(
+                f"[{md_escape(n)}](timetables/{slug(n)}.md)" for n in dropped), ""]
+        new_only = sorted((n for n in people if n not in old_people), key=str.lower)
+        if new_only:
+            C += ["**New to the roster:** " + ", ".join(
+                f"[{md_escape(n)}](timetables/{slug(n)}.md)" for n in new_only), ""]
+        C += ["## By person", ""]
+        for name in sorted(changes, key=str.lower):
+            removed, added = changes[name]
+            C += [f"### [{md_escape(name)}](timetables/{slug(name)}.md)", ""]
+            C += [f"- ~~{duty_line(r)}~~ — removed" for r in removed]
+            C += [f"- {duty_line(r)} — **added**" for r in added]
+            C.append("")
+        with open(os.path.join(out, "CHANGES.md"), "w") as f:
+            f.write("\n".join(C))
+
     index.sort(key=lambda x: x[0].lower())
     R = ["# SUSS July 2026 Exams — Invigilation Timetables", "",
-         "Per-person timetables generated from **SUSS Jul 2026 Semester Exam on Campus Invigilation Roster v1 "
-         "(dated 16 Oct 2026)**, covering exams from 10 to 20 Nov 2026 at SUSS HQ, Block C.", "",
+         "Per-person timetables generated from **SUSS Jul 2026 Semester Exam on Campus Invigilation Roster "
+         f"{source_label}**, covering exams from 10 to 20 Nov 2026 at SUSS HQ, Block C.", "",
          f"- **{len(index)} people**, **{sum(x[1] for x in index)} duties** and **{sum(x[2] for x in index)} standby slots**",
          "- Roles covered: Chief Invigilator (CI), CI understudy, Invigilator, e-Exam support, and named CI standbys. "
          "Presiding Examiners are not included.",
-         "- Always check against the official roster — it may be revised after v1.", "",
+         "- Always check against the official roster — it may be revised again.", ""]
+    if prev:
+        R += [f"**What changed since roster {prev_label}:** see [CHANGES.md](CHANGES.md) — "
+              f"{len(changes)} people affected.", ""]
+    R += [
          "## Reporting", "",
          "All invigilation teams report **1 hour before** the exam starts at **Block C, Exam Room C.2.05 (Level 2)**. "
          "Take the lift from Lobby C3 (behind Starbucks). Contact the EA Department for swaps or replacements.", "",
@@ -171,12 +257,16 @@ def main(src, out):
         R.append(f"| [{md_escape(name)}](timetables/{slug(name)}.md) | {nd or '—'} | {ns or '—'} | {main_role} | "
                  f"{rs[0]['_d'].strftime('%-d %b')} – {rs[-1]['_d'].strftime('%-d %b')} |")
     R += ["", "## Data & scripts", "",
-          "- `data/duties.csv` / `data/duties.json` — one row per person per duty",
+          "- `data/duties.csv` / `data/duties.json` — one row per person per duty (current roster)",
+          "- `data/history/` — parsed duties from earlier roster versions, used for the change log",
           "- `scripts/parse_roster.py` — extracts duties from the roster PDF using its cell borders "
-          "(so merged date/time/venue cells are matched correctly)",
-          "- `scripts/build_markdown.py` — builds these Markdown files", "",
-          "Regenerate: `python3 scripts/parse_roster.py roster.pdf data/duties.json && "
-          "python3 scripts/build_markdown.py data/duties.json .`", ""]
+          "(so merged date/time/venue cells are matched correctly) and ignores struck-through names",
+          "- `scripts/build_markdown.py` — builds these Markdown files and CHANGES.md", "",
+          "Regenerate:", "", "```",
+          "python3 scripts/parse_roster.py roster.pdf data/duties.json",
+          "python3 scripts/build_markdown.py data/duties.json . --source \"v2 dated 23 Oct 2026\" \\",
+          "    --prev data/history/duties_v1.json --prev-label \"v1 (16 Oct 2026)\"",
+          "```", ""]
     with open(os.path.join(out, "README.md"), "w") as f:
         f.write("\n".join(R))
 
@@ -191,4 +281,12 @@ def main(src, out):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("duties")
+    ap.add_argument("out")
+    ap.add_argument("--source", required=True, help='roster version label, e.g. "v2 dated 23 Oct 2026"')
+    ap.add_argument("--prev", help="duties JSON from the previous roster version, for the change log")
+    ap.add_argument("--prev-label", default="previous roster")
+    a = ap.parse_args()
+    main(a.duties, a.out, a.source, a.prev, a.prev_label)

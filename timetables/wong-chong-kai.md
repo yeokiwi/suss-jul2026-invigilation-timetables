@@ -1,6 +1,6 @@
 # Wong Chong Kai — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **14 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -17,7 +17,7 @@ Roles: Chief Invigilator × 7, Invigilator × 7
 | 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.10** | FTH387 (POE, Closed Book)<br>BME219 (POE, Closed Book) | Joanne Hong | A/P Liu Wenting · reports at C.4.08 |
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.6.07** | SST102 (Written Exam, Closed Book) | *(you)* | A/P Lau Kong Cheen · reports at C.6.05 |
 | 7 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.15** | ABS105 (POE, Open Book)<br>CCC101 (POE, Open Book) | *(you)* | Dr George Wong · reports at C.4.12 |
-| 8 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.15** | POL101 (POE, Open Book) | Serena Phang | Dr Eunice Tan · reports at C.4.12 |
+| 8 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.15** | POL101 (POE, Open Book) | Serena Phang | Prof Timothy Sim · reports at C.4.12 |
 | 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.14** | FIN364* (POE, Closed Book) | *(you)* | Dr Lo Swee Won (CL) Patricia Wee (US) · reports at C.5.11 |
 | 10 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.14** | FIN203 (Written Exam, Open Book with e-Textbook & iSG) | Asmarina | Benny Chwee · reports at C.5.11 |
 | 11 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.09** | HRM233 (POE, Closed Book)<br>CTI113 (POE, Open Book) | *(you)* | Dr Zhou Shihao · reports at C.5.07 |

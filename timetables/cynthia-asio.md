@@ -1,6 +1,6 @@
 # Cynthia Asio — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v1 dated 16 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
 
 **12 duties** · Tue 10 Nov 2026 to Tue 17 Nov 2026
 
@@ -12,7 +12,7 @@ Roles: Chief Invigilator × 3, Invigilator × 9
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.7.09** | SST101 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Lin Feng · reports at C.7.08 |
 | 2 | Tue 10 Nov 2026 | 3:00 PM – 5:00 PM | 2:00 PM | Invigilator | **C.6.11** | IPM529 (POE, Closed Book) | Esther Wong | A/P Eric Gan |
-| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.14** | BPM205 (Written Exam, Open Book with e-Textbook & iSG) | Susan Chong | Dr Xu Weibiao · reports at C.5.11 |
+| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.14** | BPM205 (Written Exam, Open Book with e-Textbook & iSG) | Susan Chong | Dr Teng Yun · reports at C.5.11 |
 | 4 | Wed 11 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.5.14** | MTD205 (Written Exam, Closed Book) | *(you)* | Dr Hoh Weng Khuan · reports at C.5.11 |
 | 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | HRM333 (POE, Closed Book) | Lim Suan Kiow | A/P Wang Jiun-Wen · reports at C.3.08 |
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.10** | SCM101* (POE, Closed Book) | *(you)* | Chee Wai Meng (CL) · reports at C.3.08 |

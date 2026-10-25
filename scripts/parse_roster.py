@@ -90,11 +90,49 @@ def is_black(c):
     return len(c) in (1, 3) and all(v == 0 for v in c) or (len(c) == 4 and c[3] == 1 and not any(c[:3]))
 
 
-def border_edges(page):
+def strike_segments(page):
+    """Thin horizontal marks that pass through the middle of text: strikethrough.
+
+    Revised rosters (v2+) mark removed names by striking them out and writing
+    the replacement alongside, so struck text must be ignored."""
+    segs = []
+    for o in page.lines + page.rects:
+        h, w = o["bottom"] - o["top"], o["x1"] - o["x0"]
+        if h >= 1.5 or not (3 < w < 400):
+            continue
+        y = (o["top"] + o["bottom"]) / 2
+        hit = False
+        for c in page.chars:
+            cx = (c["x0"] + c["x1"]) / 2
+            ch = c["bottom"] - c["top"]
+            if (o["x0"] - 1 <= cx <= o["x1"] + 1
+                    and c["top"] + 0.3 * ch < y < c["bottom"] - 0.3 * ch):
+                hit = True
+                break
+        if hit:
+            segs.append(o)
+    return segs
+
+
+def is_struck(c, segs):
+    cx = (c["x0"] + c["x1"]) / 2
+    ch = c["bottom"] - c["top"]
+    for s in segs:
+        y = (s["top"] + s["bottom"]) / 2
+        if s["x0"] - 1 <= cx <= s["x1"] + 1 and c["top"] + 0.3 * ch < y < c["bottom"] - 0.3 * ch:
+            return True
+    return False
+
+
+def border_edges(page, skip=()):
     """Only the black hairline rectangles are real cell borders; the coloured
-    fills are drawn per spreadsheet row and would split merged cells."""
+    fills are drawn per spreadsheet row and would split merged cells.
+    Strikethrough marks (skip) are excluded even when black."""
+    skip_ids = {id(s) for s in skip}
     h, v = [], []
     for r in page.rects:
+        if id(r) in skip_ids:
+            continue
         if not is_black(r.get("non_stroking_color")):
             continue
         w, ht = r["x1"] - r["x0"], r["bottom"] - r["top"]
@@ -107,6 +145,8 @@ def border_edges(page):
             v.append({"x0": x, "x1": x, "top": r["top"], "bottom": r["bottom"],
                       "width": 0, "height": ht, "orientation": "v", "object_type": "line"})
     for l in page.lines:
+        if id(l) in skip_ids:
+            continue
         if l["x1"] - l["x0"] > l["bottom"] - l["top"]:
             h.append(l)
         else:
@@ -115,7 +155,8 @@ def border_edges(page):
 
 
 def page_cells(page):
-    h, v = border_edges(page)
+    segs = strike_segments(page)
+    h, v = border_edges(page, skip=segs)
     tables = page.find_tables({
         "vertical_strategy": "explicit", "horizontal_strategy": "explicit",
         "explicit_vertical_lines": v, "explicit_horizontal_lines": h,
@@ -124,9 +165,23 @@ def page_cells(page):
     if not tables:
         return None, []
     t = max(tables, key=lambda t: len(t.cells))
+    struck = set()
+    if segs:
+        # A strike line can stop a letter short of the word end ("Gerald Won|g"):
+        # carry it on through contiguous non-space characters on the same line.
+        chars = sorted(page.chars, key=lambda c: (round(c["top"]), c["x0"]))
+        prev = None
+        for c in chars:
+            if is_struck(c, segs):
+                struck.add(id(c))
+            elif (prev is not None and id(prev) in struck and prev["text"].strip() and c["text"].strip()
+                  and abs(c["top"] - prev["top"]) < 1 and c["x0"] - prev["x1"] < 0.6):
+                struck.add(id(c))
+            prev = c
+    live = page.filter(lambda o: not (o.get("object_type") == "char" and id(o) in struck)) if segs else page
     cells = []
     for c in t.cells:
-        txt = page.crop(c).extract_text() or ""
+        txt = live.crop(c).extract_text() or ""
         cells.append({"bbox": c, "text": txt})
     return t, cells
 
