@@ -1,12 +1,14 @@
 # SUSS July 2026 Exams — Invigilation Timetables
 
-Per-person timetables generated from **SUSS Jul 2026 Semester Exam on Campus Invigilation Roster v2 dated 23 Oct 2026**, covering exams from 10 to 20 Nov 2026 at SUSS HQ, Block C.
+Per-person timetables generated from **SUSS Jul 2026 Semester Exam on Campus Invigilation Roster v3 dated 6 Nov 2026**, covering exams from 10 to 20 Nov 2026 at SUSS HQ, Block C.
 
-- **343 people**, **1575 duties** and **164 standby slots**
+- **339 people**, **1574 duties** and **164 standby slots**
 - Roles covered: Chief Invigilator (CI), CI understudy, Invigilator, e-Exam support, and named CI standbys. Presiding Examiners are not included.
 - Always check against the official roster — it may be revised again.
 
-**What changed since roster v1 (16 Oct 2026):** see [CHANGES.md](CHANGES.md) — 79 people affected.
+**What changed since roster v2 (23 Oct 2026):** see [CHANGES.md](CHANGES.md) — 51 people affected.
+
+Earlier change logs: [v1 → v2](changes/v1-to-v2.md)
 
 ## Reporting
 
@@ -25,29 +27,28 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Alex Tan](timetables/alex-tan.md) | 13 | — | Invigilator | 10 Nov – 20 Nov |
 | [Alfred Chua](timetables/alfred-chua.md) | 9 | — | Invigilator | 10 Nov – 14 Nov |
 | [Alice Leong](timetables/alice-leong.md) | 10 | — | Invigilator | 10 Nov – 19 Nov |
-| [Alicia Ang](timetables/alicia-ang.md) | — | 1 | Standby Chief Invigilator (Written) | 17 Nov – 17 Nov |
+| [Alicia Ang](timetables/alicia-ang.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
 | [Alissa Ong](timetables/alissa-ong.md) | 1 | — | e-Exam Support | 18 Nov – 18 Nov |
 | [Alvin Wong](timetables/alvin-wong.md) | 17 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Amy Goh](timetables/amy-goh.md) | — | 1 | Standby Chief Invigilator (Written) | 18 Nov – 18 Nov |
 | [Anandarajan Lakshmi](timetables/anandarajan-lakshmi.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Anastasia Ai Takahashi](timetables/anastasia-ai-takahashi.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
-| [Andy Leong](timetables/andy-leong.md) | 10 | — | Invigilator | 10 Nov – 19 Nov |
+| [Andy Leong](timetables/andy-leong.md) | 8 | — | Invigilator | 10 Nov – 16 Nov |
 | [Ang Jia Min](timetables/ang-jia-min.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Ang Li Kar](timetables/ang-li-kar.md) | 15 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Ang Zeng Xi](timetables/ang-zeng-xi.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
 | [Angela Foong](timetables/angela-foong.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
-| [Angela Yip](timetables/angela-yip.md) | 10 | — | Invigilator | 10 Nov – 18 Nov |
+| [Angela Yip](timetables/angela-yip.md) | 8 | — | Invigilator | 10 Nov – 17 Nov |
 | [Angeline Ee](timetables/angeline-ee.md) | 8 | — | Chief Invigilator | 10 Nov – 17 Nov |
-| [Angie Pang](timetables/angie-pang.md) | 11 | — | Invigilator | 10 Nov – 17 Nov |
-| [Anthony Tan Chin Lok](timetables/anthony-tan-chin-lok.md) | 4 | — | Invigilator | 10 Nov – 14 Nov |
+| [Angie Pang](timetables/angie-pang.md) | 12 | — | Invigilator | 10 Nov – 19 Nov |
 | [April Tan Hui Ru](timetables/april-tan-hui-ru.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
 | [Ashley Teo](timetables/ashley-teo.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
 | [Asmarina](timetables/asmarina.md) | 14 | — | Chief Invigilator | 10 Nov – 19 Nov |
-| [Audrey Tay](timetables/audrey-tay.md) | 10 | — | Invigilator | 10 Nov – 18 Nov |
+| [Audrey Tay](timetables/audrey-tay.md) | 4 | — | Invigilator | 10 Nov – 16 Nov |
 | [Azie](timetables/azie.md) | — | 1 | Standby Chief Invigilator (Written) | 19 Nov – 19 Nov |
 | [Azlan](timetables/azlan.md) | 1 | 1 | e-Exam Support | 11 Nov – 19 Nov |
 | [Balu Sowmiya](timetables/balu-sowmiya.md) | — | 1 | Standby Chief Invigilator (Written) | 20 Nov – 20 Nov |
-| [Belinda Ho](timetables/belinda-ho.md) | 12 | — | Invigilator | 10 Nov – 18 Nov |
+| [Belinda Ho](timetables/belinda-ho.md) | 11 | — | Invigilator | 10 Nov – 18 Nov |
 | [Benjamin Ng](timetables/benjamin-ng.md) | 2 | 2 | e-Exam Support | 10 Nov – 17 Nov |
 | [Benjamin Toh](timetables/benjamin-toh.md) | 1 | — | Chief Invigilator (Understudy) | 19 Nov – 19 Nov |
 | [Betty Gan](timetables/betty-gan.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
@@ -60,7 +61,6 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Casey Seto](timetables/casey-seto.md) | 16 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Cassandra Toh](timetables/cassandra-toh.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
 | [Catherine Tai](timetables/catherine-tai.md) | 12 | — | Invigilator | 10 Nov – 17 Nov |
-| [Celeste Koh](timetables/celeste-koh.md) | 1 | — | Chief Invigilator (Understudy) | 10 Nov – 10 Nov |
 | [Celine Cheong](timetables/celine-cheong.md) | 6 | — | Invigilator | 10 Nov – 20 Nov |
 | [Chan Wei Lin](timetables/chan-wei-lin.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
 | [Chan Xiu Hui](timetables/chan-xiu-hui.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
@@ -77,7 +77,6 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Christina Tan (DLS)](timetables/christina-tan-dls.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
 | [Christina Tan Ke Xin](timetables/christina-tan-ke-xin.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Christine Ling](timetables/christine-ling.md) | 2 | — | Invigilator | 10 Nov – 11 Nov |
-| [Christopher Yap](timetables/christopher-yap.md) | 5 | — | Invigilator | 10 Nov – 16 Nov |
 | [Chua Saw Seng](timetables/chua-saw-seng.md) | 1 | — | Chief Invigilator (Understudy) | 13 Nov – 13 Nov |
 | [Chuang Mui Yau](timetables/chuang-mui-yau.md) | 4 | — | Invigilator | 11 Nov – 13 Nov |
 | [Cindy Neo](timetables/cindy-neo.md) | — | 1 | Standby Chief Invigilator (Written) | 13 Nov – 13 Nov |
@@ -85,12 +84,12 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Clover Tan](timetables/clover-tan.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
 | [Coco Khoa](timetables/coco-khoa.md) | — | 1 | Standby Chief Invigilator (POE) | 12 Nov – 12 Nov |
 | [Constance Ho](timetables/constance-ho.md) | 10 | — | Invigilator | 12 Nov – 20 Nov |
-| [Cynthia Asio](timetables/cynthia-asio.md) | 12 | — | Invigilator | 10 Nov – 17 Nov |
+| [Cynthia Asio](timetables/cynthia-asio.md) | 13 | — | Invigilator | 10 Nov – 19 Nov |
 | [Danny Chin](timetables/danny-chin.md) | — | 1 | Standby Chief Invigilator (Written) | 19 Nov – 19 Nov |
 | [Daris Tan](timetables/daris-tan.md) | — | 1 | Standby Chief Invigilator (POE) | 14 Nov – 14 Nov |
 | [Dave Lim](timetables/dave-lim.md) | — | 1 | Standby Chief Invigilator (POE) | 16 Nov – 16 Nov |
 | [Dawn Ong](timetables/dawn-ong.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
-| [Delia Ng](timetables/delia-ng.md) | 9 | — | Invigilator | 10 Nov – 20 Nov |
+| [Delia Ng](timetables/delia-ng.md) | 8 | — | Invigilator | 10 Nov – 18 Nov |
 | [Denise Lee](timetables/denise-lee.md) | — | 1 | Standby Chief Invigilator (Written) | 19 Nov – 19 Nov |
 | [Dian Sophia](timetables/dian-sophia.md) | — | 1 | Standby Chief Invigilator (POE) | 12 Nov – 12 Nov |
 | [Donna Foong](timetables/donna-foong.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
@@ -99,7 +98,7 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Edith Ng](timetables/edith-ng.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
 | [Edward Wong](timetables/edward-wong.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
 | [Elaine Chan](timetables/elaine-chan.md) | — | 1 | Standby Chief Invigilator (Written) | 12 Nov – 12 Nov |
-| [Elaine Lim Choon Lay](timetables/elaine-lim-choon-lay.md) | 9 | — | Invigilator | 10 Nov – 19 Nov |
+| [Elaine Lim Choon Lay](timetables/elaine-lim-choon-lay.md) | 10 | — | Invigilator | 10 Nov – 19 Nov |
 | [Elaine Lim Mui Ling](timetables/elaine-lim-mui-ling.md) | 19 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Elaine Yeo](timetables/elaine-yeo.md) | — | 1 | Standby Chief Invigilator (POE) | 13 Nov – 13 Nov |
 | [Elena Goo](timetables/elena-goo.md) | 13 | — | Invigilator | 10 Nov – 19 Nov |
@@ -108,7 +107,7 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Elvina Tang](timetables/elvina-tang.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
 | [Emily Heng](timetables/emily-heng.md) | 18 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Emily Ko](timetables/emily-ko.md) | — | 1 | Standby Chief Invigilator (Written) | 20 Nov – 20 Nov |
-| [Emmeline Yeo](timetables/emmeline-yeo.md) | 4 | — | Invigilator | 13 Nov – 20 Nov |
+| [Emmeline Yeo](timetables/emmeline-yeo.md) | 3 | — | Invigilator | 19 Nov – 20 Nov |
 | [Emmelyn Koh](timetables/emmelyn-koh.md) | — | 1 | Standby Chief Invigilator (POE) | 12 Nov – 12 Nov |
 | [Eric Teo](timetables/eric-teo.md) | 12 | — | Invigilator | 10 Nov – 20 Nov |
 | [Esther Leow](timetables/esther-leow.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
@@ -134,12 +133,13 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Huang Kangrui](timetables/huang-kangrui.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
 | [Huang Kexin](timetables/huang-kexin.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
 | [Inoue Del Rosario Chat](timetables/inoue-del-rosario-chat.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
-| [Irene Peh](timetables/irene-peh.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
+| [Irene Peh](timetables/irene-peh.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
 | [Isla Wong](timetables/isla-wong.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
+| [Jack Jia](timetables/jack-jia.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Jane Tan](timetables/jane-tan.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Janice Lim](timetables/janice-lim.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
 | [Jaslyn Liew](timetables/jaslyn-liew.md) | — | 1 | Standby Chief Invigilator (Written) | 19 Nov – 19 Nov |
-| [Jasmine Sng](timetables/jasmine-sng.md) | 8 | — | Invigilator | 10 Nov – 17 Nov |
+| [Jasmine Sng](timetables/jasmine-sng.md) | 10 | — | Invigilator | 10 Nov – 20 Nov |
 | [Jason Toh](timetables/jason-toh.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Javier Phang](timetables/javier-phang.md) | — | 1 | Standby Chief Invigilator (POE) | 14 Nov – 14 Nov |
 | [Javine Sam](timetables/javine-sam.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
@@ -148,16 +148,15 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Jenn Wong](timetables/jenn-wong.md) | 12 | — | Invigilator | 10 Nov – 19 Nov |
 | [Jennifer Pang](timetables/jennifer-pang.md) | 14 | — | Invigilator | 10 Nov – 18 Nov |
 | [Jennifer See](timetables/jennifer-see.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
-| [Jenny Goh](timetables/jenny-goh.md) | 10 | — | Invigilator | 10 Nov – 18 Nov |
+| [Jenny Goh](timetables/jenny-goh.md) | 9 | — | Invigilator | 10 Nov – 18 Nov |
 | [Jerine Wong](timetables/jerine-wong.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Jermaine Ong](timetables/jermaine-ong.md) | 2 | 1 | e-Exam Support | 17 Nov – 18 Nov |
-| [Jessiline Khoo](timetables/jessiline-khoo.md) | 8 | — | Invigilator | 10 Nov – 19 Nov |
-| [Jesslyn Chia](timetables/jesslyn-chia.md) | — | 1 | Standby Chief Invigilator (POE) | 19 Nov – 19 Nov |
-| [Joanna Toh](timetables/joanna-toh.md) | 15 | — | Invigilator | 10 Nov – 19 Nov |
+| [Jessiline Khoo](timetables/jessiline-khoo.md) | 9 | — | Invigilator | 10 Nov – 19 Nov |
+| [Joanna Toh](timetables/joanna-toh.md) | 17 | — | Invigilator | 10 Nov – 19 Nov |
 | [Joanne Hong](timetables/joanne-hong.md) | 14 | — | Invigilator | 10 Nov – 18 Nov |
 | [Jocelyn Lim](timetables/jocelyn-lim.md) | 12 | — | Invigilator | 11 Nov – 18 Nov |
 | [Johanna Priya Nair](timetables/johanna-priya-nair.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
-| [Jolene Ang](timetables/jolene-ang.md) | 15 | — | Chief Invigilator | 10 Nov – 20 Nov |
+| [Jolene Ang](timetables/jolene-ang.md) | 16 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Jonas Lim](timetables/jonas-lim.md) | 2 | — | Invigilator | 10 Nov – 11 Nov |
 | [Josephine Ng Seok](timetables/josephine-ng-seok.md) | 17 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Josephine Ng Siew Lan](timetables/josephine-ng-siew-lan.md) | 2 | — | Chief Invigilator | 14 Nov – 14 Nov |
@@ -169,7 +168,7 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [June Kwok](timetables/june-kwok.md) | 13 | — | Invigilator | 10 Nov – 19 Nov |
 | [Justina Quek](timetables/justina-quek.md) | 11 | — | Invigilator | 10 Nov – 19 Nov |
 | [Karen Chang](timetables/karen-chang.md) | 16 | — | Chief Invigilator | 10 Nov – 19 Nov |
-| [Karen Goh](timetables/karen-goh.md) | 13 | — | Chief Invigilator | 10 Nov – 20 Nov |
+| [Karen Goh](timetables/karen-goh.md) | 14 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Karen Lim Kim Eng](timetables/karen-lim-kim-eng.md) | 6 | — | Invigilator | 10 Nov – 12 Nov |
 | [Karin Foo](timetables/karin-foo.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
 | [Kee Ting](timetables/kee-ting.md) | — | 1 | Standby Chief Invigilator (Written) | 13 Nov – 13 Nov |
@@ -180,10 +179,10 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Koh Chee Han](timetables/koh-chee-han.md) | 10 | — | Invigilator | 10 Nov – 18 Nov |
 | [Kristen Woon](timetables/kristen-woon.md) | — | 1 | Standby Chief Invigilator (POE) | 20 Nov – 20 Nov |
 | [Lam Chee Yuong](timetables/lam-chee-yuong.md) | 7 | — | Invigilator | 10 Nov – 17 Nov |
-| [Lam Tze Ching](timetables/lam-tze-ching.md) | 14 | — | Invigilator | 10 Nov – 20 Nov |
+| [Lam Tze Ching](timetables/lam-tze-ching.md) | 13 | — | Invigilator | 10 Nov – 20 Nov |
 | [Lao Zhenxi](timetables/lao-zhenxi.md) | — | 1 | Standby Chief Invigilator (Written) | 14 Nov – 14 Nov |
 | [Laura Lee](timetables/laura-lee.md) | 9 | — | Invigilator | 11 Nov – 20 Nov |
-| [Law Chai Swan](timetables/law-chai-swan.md) | 11 | — | Invigilator | 10 Nov – 19 Nov |
+| [Law Chai Swan](timetables/law-chai-swan.md) | 12 | — | Invigilator | 10 Nov – 20 Nov |
 | [Lawrence Ku](timetables/lawrence-ku.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
 | [Lawrence Lim](timetables/lawrence-lim.md) | 9 | — | Invigilator | 16 Nov – 20 Nov |
 | [Lee Boon Kee](timetables/lee-boon-kee.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
@@ -200,16 +199,16 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Lina Ng](timetables/lina-ng.md) | — | 1 | Standby Chief Invigilator (Written) | 18 Nov – 18 Nov |
 | [Linda Chang](timetables/linda-chang.md) | 4 | — | Invigilator | 12 Nov – 14 Nov |
 | [Linda Chiu](timetables/linda-chiu.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
-| [Linda Quek](timetables/linda-quek.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
+| [Linda Quek](timetables/linda-quek.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
 | [Linda Yiu](timetables/linda-yiu.md) | 12 | — | Chief Invigilator | 11 Nov – 18 Nov |
 | [Linette Ong](timetables/linette-ong.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
 | [Liu Kailiang](timetables/liu-kailiang.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
 | [Liu Yue](timetables/liu-yue.md) | 2 | — | e-Exam Support | 12 Nov – 12 Nov |
-| [Lo Tak Wah](timetables/lo-tak-wah.md) | 9 | — | Invigilator | 10 Nov – 19 Nov |
+| [Lo Tak Wah](timetables/lo-tak-wah.md) | 10 | — | Invigilator | 10 Nov – 19 Nov |
 | [Loh Hiang Ngee](timetables/loh-hiang-ngee.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Loh Peixuan](timetables/loh-peixuan.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
 | [Low How Choi](timetables/low-how-choi.md) | 15 | — | Invigilator | 10 Nov – 19 Nov |
-| [Low Kim Yong](timetables/low-kim-yong.md) | 13 | — | Invigilator | 10 Nov – 20 Nov |
+| [Low Kim Yong](timetables/low-kim-yong.md) | 16 | — | Invigilator | 10 Nov – 20 Nov |
 | [Low Wai Leng](timetables/low-wai-leng.md) | 14 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Low Yu Ling](timetables/low-yu-ling.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
 | [Luk Lee Lieng](timetables/luk-lee-lieng.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
@@ -220,12 +219,12 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Margareta Ee](timetables/margareta-ee.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
 | [Maria Binte Amri](timetables/maria-binte-amri.md) | 9 | — | Invigilator | 12 Nov – 20 Nov |
 | [Marie Lur](timetables/marie-lur.md) | 20 | — | Chief Invigilator | 10 Nov – 20 Nov |
-| [Matthew Lim](timetables/matthew-lim.md) | 1 | — | Chief Invigilator (Understudy) | 12 Nov – 12 Nov |
+| [Matthew Lim](timetables/matthew-lim.md) | 1 | — | Chief Invigilator (Understudy) | 17 Nov – 17 Nov |
 | [Melissa Ho](timetables/melissa-ho.md) | — | 1 | Standby Chief Invigilator (Written) | 19 Nov – 19 Nov |
 | [Melody Wong](timetables/melody-wong.md) | 1 | — | e-Exam Support | 12 Nov – 12 Nov |
 | [Melvin Low](timetables/melvin-low.md) | — | 1 | Standby Chief Invigilator (Written) | 14 Nov – 14 Nov |
 | [Meng Yi-Ju](timetables/meng-yi-ju.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
-| [Merlyn Lee](timetables/merlyn-lee.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
+| [Merlyn Lee](timetables/merlyn-lee.md) | 8 | — | Invigilator | 10 Nov – 19 Nov |
 | [Michelle Chan](timetables/michelle-chan.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
 | [Michelle Ng](timetables/michelle-ng.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
 | [Michelle Zhou](timetables/michelle-zhou.md) | 1 | — | e-Exam Support | 12 Nov – 12 Nov |
@@ -252,58 +251,57 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Nurul Syuhaidah](timetables/nurul-syuhaidah.md) | — | 1 | Standby Chief Invigilator (Written) | 13 Nov – 13 Nov |
 | [Ong Lih Lian](timetables/ong-lih-lian.md) | 6 | — | Invigilator | 10 Nov – 12 Nov |
 | [Ong Lip Sin](timetables/ong-lip-sin.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
-| [Ong Yuin Ling](timetables/ong-yuin-ling.md) | 9 | — | Invigilator | 10 Nov – 20 Nov |
+| [Ong Yuin Ling](timetables/ong-yuin-ling.md) | 10 | — | Invigilator | 10 Nov – 20 Nov |
 | [Patricia Ang](timetables/patricia-ang.md) | 14 | — | Invigilator | 10 Nov – 20 Nov |
 | [Patricia Yan](timetables/patricia-yan.md) | 15 | — | Invigilator | 10 Nov – 20 Nov |
 | [Phua Xiu Quan](timetables/phua-xiu-quan.md) | — | 1 | Standby Chief Invigilator (Written) | 12 Nov – 12 Nov |
 | [Prema](timetables/prema.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
-| [Premkumar](timetables/premkumar.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
+| [Premkumar](timetables/premkumar.md) | 12 | — | Invigilator | 10 Nov – 20 Nov |
 | [Prisela Balakrishnan](timetables/prisela-balakrishnan.md) | — | 1 | Standby Chief Invigilator (Written) | 10 Nov – 10 Nov |
-| [Quek Wei San](timetables/quek-wei-san.md) | 2 | — | Invigilator | 10 Nov – 16 Nov |
+| [Quek Wei San](timetables/quek-wei-san.md) | 3 | — | Invigilator | 10 Nov – 18 Nov |
 | [Rachel Lim](timetables/rachel-lim.md) | — | 1 | Standby Chief Invigilator (Written) | 14 Nov – 14 Nov |
-| [Rachel Wong](timetables/rachel-wong.md) | 16 | — | Chief Invigilator | 10 Nov – 19 Nov |
+| [Rachel Wong](timetables/rachel-wong.md) | 14 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Raghbir Singh](timetables/raghbir-singh.md) | 14 | — | Invigilator | 10 Nov – 20 Nov |
 | [Raneeta Mutiara](timetables/raneeta-mutiara.md) | 1 | — | Chief Invigilator (Understudy) | 17 Nov – 17 Nov |
 | [Ray Koh](timetables/ray-koh.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
-| [Raymond Yeo](timetables/raymond-yeo.md) | 9 | — | Invigilator | 10 Nov – 19 Nov |
+| [Raymond Yeo](timetables/raymond-yeo.md) | 11 | — | Invigilator | 10 Nov – 19 Nov |
 | [Regina Chng](timetables/regina-chng.md) | — | 1 | Standby Chief Invigilator (Written) | 12 Nov – 12 Nov |
 | [Rena Lau](timetables/rena-lau.md) | 14 | — | Invigilator | 10 Nov – 18 Nov |
-| [Renee Shen Meng](timetables/renee-shen-meng.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Ricky Leow](timetables/ricky-leow.md) | 5 | — | Invigilator | 16 Nov – 20 Nov |
 | [Ricky Wijaya](timetables/ricky-wijaya.md) | — | 1 | Standby Chief Invigilator (Written) | 14 Nov – 14 Nov |
 | [Rimmy Ling](timetables/rimmy-ling.md) | 12 | — | Invigilator | 10 Nov – 19 Nov |
 | [Rissa Chang](timetables/rissa-chang.md) | — | 1 | Standby Chief Invigilator (POE) | 12 Nov – 12 Nov |
 | [Roslyn Tan](timetables/roslyn-tan.md) | 15 | — | Invigilator | 10 Nov – 20 Nov |
-| [Ruby Wee](timetables/ruby-wee.md) | 7 | — | Invigilator | 11 Nov – 19 Nov |
+| [Ruby Wee](timetables/ruby-wee.md) | 8 | — | Invigilator | 11 Nov – 19 Nov |
 | [Ryan Hidayat Sulaiman](timetables/ryan-hidayat-sulaiman.md) | 1 | — | Chief Invigilator (Understudy) | 10 Nov – 10 Nov |
-| [Ryan Tan](timetables/ryan-tan.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
+| [Ryan Tan](timetables/ryan-tan.md) | — | 2 | Standby Chief Invigilator (POE) | 10 Nov – 19 Nov |
 | [Sabrina Cheong](timetables/sabrina-cheong.md) | 2 | — | e-Exam Support | 16 Nov – 19 Nov |
 | [Saeedah Banu](timetables/saeedah-banu.md) | — | 1 | Standby Chief Invigilator (POE) | 13 Nov – 13 Nov |
 | [Sally Seow](timetables/sally-seow.md) | 6 | — | Invigilator | 10 Nov – 20 Nov |
 | [Sarah Lim](timetables/sarah-lim.md) | — | 1 | Standby Chief Invigilator (Written) | 11 Nov – 11 Nov |
 | [Satvinder Kaur](timetables/satvinder-kaur.md) | 9 | — | Invigilator | 10 Nov – 16 Nov |
-| [Seah Lay Kheng](timetables/seah-lay-kheng.md) | 10 | — | Invigilator | 10 Nov – 20 Nov |
+| [Seah Lay Kheng](timetables/seah-lay-kheng.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
 | [Sebastian Caroline Ann](timetables/sebastian-caroline-ann.md) | 18 | — | Chief Invigilator | 10 Nov – 20 Nov |
-| [Seetho Hiong Lan](timetables/seetho-hiong-lan.md) | 8 | — | Invigilator | 12 Nov – 20 Nov |
+| [Seetho Hiong Lan](timetables/seetho-hiong-lan.md) | 9 | — | Invigilator | 12 Nov – 20 Nov |
 | [Serena Phang](timetables/serena-phang.md) | 14 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Serene Low](timetables/serene-low.md) | 16 | — | Invigilator | 10 Nov – 19 Nov |
 | [Serene Tan](timetables/serene-tan.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
 | [Serene Teo](timetables/serene-teo.md) | 8 | — | Invigilator | 10 Nov – 20 Nov |
 | [Seryn Tan](timetables/seryn-tan.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
 | [Shalini](timetables/shalini.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
-| [Shalyn Chin](timetables/shalyn-chin.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
+| [Shalyn Chin](timetables/shalyn-chin.md) | — | 1 | Standby Chief Invigilator (Written) | 17 Nov – 17 Nov |
 | [Shamini](timetables/shamini.md) | 1 | — | Chief Invigilator (Understudy) | 19 Nov – 19 Nov |
 | [Shana Ang](timetables/shana-ang.md) | — | 1 | Standby Chief Invigilator (POE) | 10 Nov – 10 Nov |
 | [Shanice Sng](timetables/shanice-sng.md) | — | 1 | Standby Chief Invigilator (POE) | 18 Nov – 18 Nov |
 | [Sharon Goh Siew Hong](timetables/sharon-goh-siew-hong.md) | 10 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Sheila Aw](timetables/sheila-aw.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
-| [Sherine Goh](timetables/sherine-goh.md) | 9 | — | Invigilator | 10 Nov – 20 Nov |
-| [Sherlynn Toh](timetables/sherlynn-toh.md) | 9 | — | Invigilator | 10 Nov – 18 Nov |
+| [Sherine Goh](timetables/sherine-goh.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
+| [Sherlynn Toh](timetables/sherlynn-toh.md) | 8 | — | Invigilator | 10 Nov – 18 Nov |
 | [Shirley Goh](timetables/shirley-goh.md) | 7 | — | Invigilator | 10 Nov – 20 Nov |
 | [Shirley Zhu](timetables/shirley-zhu.md) | — | 1 | Standby Chief Invigilator (Written) | 17 Nov – 17 Nov |
 | [Shona Lee](timetables/shona-lee.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
 | [Sim Bei Ling](timetables/sim-bei-ling.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
-| [Sim Boh Hoon](timetables/sim-boh-hoon.md) | 9 | — | Invigilator | 13 Nov – 20 Nov |
+| [Sim Boh Hoon](timetables/sim-boh-hoon.md) | 10 | — | Invigilator | 13 Nov – 20 Nov |
 | [Siti Nur Jazeerah Kasim](timetables/siti-nur-jazeerah-kasim.md) | 1 | — | Chief Invigilator (Understudy) | 12 Nov – 12 Nov |
 | [Siti Nur'Aishah](timetables/siti-nur-aishah.md) | 1 | — | Chief Invigilator (Understudy) | 13 Nov – 13 Nov |
 | [Sofia Yowendra](timetables/sofia-yowendra.md) | 1 | — | Chief Invigilator (Understudy) | 16 Nov – 16 Nov |
@@ -323,7 +321,7 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Tan Tyng Tyng](timetables/tan-tyng-tyng.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Tan Wei Ling](timetables/tan-wei-ling.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Tan Yi Sheng](timetables/tan-yi-sheng.md) | — | 1 | Standby Chief Invigilator (POE) | 17 Nov – 17 Nov |
-| [Tan Yianna](timetables/tan-yianna.md) | 7 | — | Invigilator | 10 Nov – 18 Nov |
+| [Tan Yianna](timetables/tan-yianna.md) | 6 | — | Invigilator | 10 Nov – 16 Nov |
 | [Tan Yun Ru](timetables/tan-yun-ru.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Tek Sheng Yu](timetables/tek-sheng-yu.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
 | [Teo Hui Shan](timetables/teo-hui-shan.md) | — | 1 | Standby Chief Invigilator (Written) | 18 Nov – 18 Nov |
@@ -332,9 +330,9 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Tiong Jia Yin](timetables/tiong-jia-yin.md) | — | 1 | Standby Chief Invigilator (POE) | 16 Nov – 16 Nov |
 | [Tommy Ong](timetables/tommy-ong.md) | 18 | — | Chief Invigilator | 10 Nov – 20 Nov |
 | [Tong Jia Min](timetables/tong-jia-min.md) | — | 1 | Standby Chief Invigilator (POE) | 16 Nov – 16 Nov |
-| [Tracey Tan](timetables/tracey-tan.md) | 12 | — | Invigilator | 10 Nov – 20 Nov |
+| [Tracey Tan](timetables/tracey-tan.md) | 13 | — | Invigilator | 10 Nov – 20 Nov |
 | [Tricia Tay](timetables/tricia-tay.md) | — | 1 | Standby Chief Invigilator (POE) | 12 Nov – 12 Nov |
-| [V Mary Hima Bindu](timetables/v-mary-hima-bindu.md) | 1 | — | Invigilator | 11 Nov – 11 Nov |
+| [V Mary Hima Bindu](timetables/v-mary-hima-bindu.md) | 2 | — | Invigilator | 10 Nov – 11 Nov |
 | [Valeen Tan](timetables/valeen-tan.md) | — | 1 | Standby Chief Invigilator (Written) | 16 Nov – 16 Nov |
 | [Valerie Eng](timetables/valerie-eng.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
 | [Veldas Lim](timetables/veldas-lim.md) | — | 1 | Standby Chief Invigilator (Written) | 12 Nov – 12 Nov |
@@ -347,17 +345,17 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 | [Vivien Rose Liew](timetables/vivien-rose-liew.md) | 4 | — | Chief Invigilator | 10 Nov – 12 Nov |
 | [Wang Longda](timetables/wang-longda.md) | — | 1 | Standby Chief Invigilator (POE) | 11 Nov – 11 Nov |
 | [Wendy Pang](timetables/wendy-pang.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
-| [Winston Wee](timetables/winston-wee.md) | 17 | — | Invigilator | 10 Nov – 20 Nov |
+| [Winston Wee](timetables/winston-wee.md) | 18 | — | Invigilator | 10 Nov – 20 Nov |
 | [Wong Chang Boon](timetables/wong-chang-boon.md) | 11 | — | Invigilator | 10 Nov – 20 Nov |
-| [Wong Chong Kai](timetables/wong-chong-kai.md) | 14 | — | Chief Invigilator | 10 Nov – 19 Nov |
+| [Wong Chong Kai](timetables/wong-chong-kai.md) | 15 | — | Chief Invigilator | 10 Nov – 19 Nov |
 | [Wong Ling Ming](timetables/wong-ling-ming.md) | — | 1 | Standby Chief Invigilator (Written) | 14 Nov – 14 Nov |
-| [Wong Waa Bee](timetables/wong-waa-bee.md) | 9 | — | Invigilator | 10 Nov – 20 Nov |
+| [Wong Waa Bee](timetables/wong-waa-bee.md) | 10 | — | Invigilator | 10 Nov – 20 Nov |
 | [Wu Kan Hwei](timetables/wu-kan-hwei.md) | 9 | — | Invigilator | 10 Nov – 20 Nov |
 | [Xu Jieqi](timetables/xu-jieqi.md) | 1 | — | e-Exam Support | 18 Nov – 18 Nov |
 | [Yang Zihui](timetables/yang-zihui.md) | 2 | — | e-Exam Support | 10 Nov – 12 Nov |
 | [Ye Hui](timetables/ye-hui.md) | — | 1 | Standby Chief Invigilator (POE) | 14 Nov – 14 Nov |
 | [Yeo Qiao Shi](timetables/yeo-qiao-shi.md) | — | 1 | Standby Chief Invigilator (POE) | 16 Nov – 16 Nov |
-| [Yeo Sock Kui](timetables/yeo-sock-kui.md) | 10 | — | Invigilator | 10 Nov – 19 Nov |
+| [Yeo Sock Kui](timetables/yeo-sock-kui.md) | 11 | — | Invigilator | 10 Nov – 19 Nov |
 | [Yvonne Yeo](timetables/yvonne-yeo.md) | — | 1 | Standby Chief Invigilator (POE) | 20 Nov – 20 Nov |
 | [Zhang Meijun](timetables/zhang-meijun.md) | — | 1 | Standby Chief Invigilator (Written) | 17 Nov – 17 Nov |
 | [Zhu Jiaqi](timetables/zhu-jiaqi.md) | 1 | — | Chief Invigilator (Understudy) | 18 Nov – 18 Nov |
@@ -367,7 +365,8 @@ PE – Presiding Examiner · CI – Chief Invigilator · I – Invigilator · CL
 ## Data & scripts
 
 - `data/duties.csv` / `data/duties.json` — one row per person per duty (current roster)
-- `data/history/` — parsed duties from earlier roster versions, used for the change log
+- `data/history/` — parsed duties for every roster version, used for the change logs
+- `changes/` — change logs between earlier roster versions
 - `scripts/parse_roster.py` — extracts duties from the roster PDF using its cell borders (so merged date/time/venue cells are matched correctly) and ignores struck-through names
 - `scripts/build_markdown.py` — builds these Markdown files and CHANGES.md
 
@@ -375,6 +374,7 @@ Regenerate:
 
 ```
 python3 scripts/parse_roster.py roster.pdf data/duties.json
-python3 scripts/build_markdown.py data/duties.json . --source "v2 dated 23 Oct 2026" \
-    --prev data/history/duties_v1.json --prev-label "v1 (16 Oct 2026)"
+python3 scripts/build_markdown.py data/duties.json . --source "v3 dated 6 Nov 2026" \
+    --prev data/history/duties_v2.json --prev-label "v2 (23 Oct 2026)" \
+    --history data/history/duties_v1.json
 ```

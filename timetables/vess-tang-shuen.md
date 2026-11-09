@@ -1,6 +1,6 @@
 # Vess Tang Shuen — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **0 duties** + **1 standby** · Thu 19 Nov 2026
 

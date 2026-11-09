@@ -1,6 +1,6 @@
 # Keith Chen — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **5 duties** · Tue 10 Nov 2026 to Tue 17 Nov 2026
 

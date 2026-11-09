@@ -1,8 +1,6 @@
 # Sum Kwai Siong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 2 removed · 3 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **10 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -24,14 +22,6 @@ Roles: Invigilator × 10
 | 10 | Thu 19 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.12** | ICT162 (POE, Closed Book) | Vera Lui | A/P Tan Teng Hooi · reports at C.4.12 |
 
 > **Back-to-back:** Tue 10 Nov (3:00 PM finish → 3:00 PM report); Tue 17 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Wed 18 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.3.10 · HRM203~~ — **removed**
-- ~~Fri 20 Nov 2026, 4:00 PM – 7:00 PM · Invigilator · C.6.09 · ACC306~~ — **removed**
-- Wed 11 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.5.09 · MKT202, FIN324*, SPE209, SWK102* — **added**
-- Thu 12 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.7.13 · BUS105, SEC339R — **added**
-- Tue 17 Nov 2026, 1:00 PM – 3:00 PM · Invigilator · C.5.07 · BUS308* — **added**
 
 ## Reporting
 

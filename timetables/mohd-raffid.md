@@ -1,6 +1,6 @@
 # Mohd Raffid — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **18 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -15,7 +15,7 @@ Roles: Chief Invigilator × 10, Invigilator × 8
 | 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | MKT202 (POE, Closed Book) | *(you)* | Dr Qian Shuoge (CL) · reports at C.5.07 |
 | 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | ICT114 (Written Exam, Closed Book) | Karen Chang, Naseem Huseni Tayabali (US) | Dr Liu Fang · reports at C.5.07 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.09** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Zhang Yimiao · reports at C.5.07 |
-| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.09** | EAS401 (Written Exam, Open Book with e-Textbook & iSG) | Asmarina | Dr Yao Shih-Ying · reports at C.5.07 |
+| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.09** | EAS401 (Written Exam, Open Book with e-Textbook & iSG) | Asmarina | A/P Eugene Chew · reports at C.5.07 |
 | 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.10** | FIN379 (POE, Closed Book) | *(you)* | A/P Yu Yinghui Dr Wang Yuxi (US) · reports at C.3.08 |
 | 8 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.11** | FMT101 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Cera Tan · reports at C.5.11 |
 | 9 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.11** | MTH105 (Written Exam, Open Book with e-Textbook & iSG) | Maheswari | Dr Chung Ning Ning · reports at C.5.11 |

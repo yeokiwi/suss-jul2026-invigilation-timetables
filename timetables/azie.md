@@ -1,8 +1,6 @@
 # Azie — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 removed · 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **0 duties** + **1 standby** · Thu 19 Nov 2026
 
@@ -13,11 +11,6 @@ Roles: Standby Chief Invigilator (Written) × 1
 | # | Date | Session | Report By | Role |
 |---|---|---|---|---|
 | 1 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Standby Chief Invigilator (Written) |
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Wed 11 Nov 2026, 10:00 AM – 12:00 PM · Standby Chief Invigilator (POE)~~ — **removed**
-- Thu 19 Nov 2026, 1:00 PM – 3:00 PM · Standby Chief Invigilator (Written) — **added**
 
 ## Reporting
 

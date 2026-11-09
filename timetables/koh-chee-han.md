@@ -1,6 +1,6 @@
 # Koh Chee Han — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **10 duties** · Tue 10 Nov 2026 to Wed 18 Nov 2026
 
@@ -12,7 +12,7 @@ Roles: Chief Invigilator × 1, Chief Invigilator (Understudy) × 1, Invigilator 
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | COM223 (POE, Closed Book) | Joanne Hong, Ryan Hidayat Sulaiman (US) | Dr Ooi Seok Hui Dr Thomas Fan (US) · reports at C.3.08 |
 | 2 | Tue 10 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.3.08** | FIN306 (POE, Closed Book) | Marie Lur | A/P Atiqah Azhari · reports at C.3.08 |
-| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.6.05** | ICT318 (Written Exam, Open Book with e-Textbook & iSG) | Esther Wong, Koh Chee Han (US) | Ruth Yeo · reports at C.6.05 |
+| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.6.05** | ICT318 (Written Exam, Open Book with e-Textbook & iSG) | Esther Wong, Koh Chee Han (US) | Yeo Chuan Tat · reports at C.6.05 |
 | 4 | Wed 11 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.6.05** | MLL107 (Written Exam, Closed Book)<br>TLL105 (Written Exam, Closed Book)<br>TLL304 (Written Exam, Closed Book) | Lim Suan Kiow | A/P Xia Chongwu |
 | 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.12** | BME219 (POE, Closed Book)<br>HFS371 (POE, Closed Book) | Serene Low | A/P Yap Wei Yim (CL) · reports at C.4.12 |
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.6.05** | EAS435 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH210 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH357R (Written Exam, Open Book with e-Textbook & iSG) | June Kwok | A/P Lau Kong Cheen · reports at C.6.05 |

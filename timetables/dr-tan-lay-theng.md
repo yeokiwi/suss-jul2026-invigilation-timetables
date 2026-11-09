@@ -1,6 +1,6 @@
 # Dr Tan Lay Theng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **1 duty** · Tue 17 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | Doris Heng, Dr Tan Lay Theng (US) | Dr Wang Peng · reports at C.5.11 |
+| 1 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | Doris Heng, Dr Tan Lay Theng (US) | A/P Joyce Wang · reports at C.5.11 |
 
 ## Reporting
 

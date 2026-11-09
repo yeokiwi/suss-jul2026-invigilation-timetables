@@ -1,6 +1,6 @@
 # Josephine Ng Siew Lan — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **2 duties** · Sat 14 Nov 2026 to Sat 14 Nov 2026
 

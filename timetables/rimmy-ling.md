@@ -1,8 +1,6 @@
 # Rimmy Ling — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **12 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -26,10 +24,6 @@ Roles: Invigilator × 12
 | 12 | Thu 19 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.5.07** | MTH212 (Written Exam, Open Book with e-Textbook & iSG) | Marie Lur | Dr Fan Zengyan · reports at C.5.07 |
 
 > **Back-to-back:** Wed 11 Nov (12:00 PM finish → 12:00 PM report); Sat 14 Nov (12:00 PM finish → 12:00 PM report); Tue 17 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- Thu 12 Nov 2026, 4:00 PM – 7:00 PM · Invigilator · C.4.14 · BPM505 — **added**
 
 ## Reporting
 

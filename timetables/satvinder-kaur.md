@@ -1,8 +1,6 @@
 # Satvinder Kaur — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 removed — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **9 duties** · Tue 10 Nov 2026 to Mon 16 Nov 2026
 
@@ -23,10 +21,6 @@ Roles: Invigilator × 9
 | 9 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.08** | SWK201* (POE, Closed Book)<br>COU204 (POE, Closed Book)<br>SPE203R (POE, Closed Book)<br>FSS335 (POE, Closed Book) | Eve Yong | Dr Eunice Tan · reports at C.4.08 |
 
 > **Back-to-back:** Wed 11 Nov (3:00 PM finish → 3:00 PM report); Mon 16 Nov (12:00 PM finish → 12:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Tue 17 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.4.14 · PSS103~~ — **removed**
 
 ## Reporting
 

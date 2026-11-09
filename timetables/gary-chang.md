@@ -1,6 +1,6 @@
 # Gary Chang — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **9 duties** · Mon 16 Nov 2026 to Fri 20 Nov 2026
 
@@ -10,9 +10,9 @@ Roles: Invigilator × 9
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.15** | ACC202 (POE, Closed Book) | Karen Goh, Sofia Yowendra (US) | Dr Lukas Johannes Helikum · reports at C.4.12 |
+| 1 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.15** | ACC202 (POE, Closed Book) | Karen Goh, Sofia Yowendra (US) | A/P Ng Kai Teck · reports at C.4.12 |
 | 2 | Mon 16 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.15** | ICT259 (Written Exam, Closed Book) | Cheng Tian Yee | Dr Yong Ming Li · reports at C.4.12 |
-| 3 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | Doris Heng, Dr Tan Lay Theng (US) | Dr Wang Peng · reports at C.5.11 |
+| 3 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | Doris Heng, Dr Tan Lay Theng (US) | A/P Joyce Wang · reports at C.5.11 |
 | 4 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.6.12** | HFS203 (Written Exam, Closed Book) | Candice Tai | A/P Wang Yue · reports at C.6.09 |
 | 5 | Wed 18 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.6.12** | FMT506 (Written Exam, Open Book with e-Textbook & iSG) | Maheswari | Dr Wong Wee Boon · reports at C.6.09 |
 | 6 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.14** | BUS354 (Written Exam, Open Book with e-Textbook & iSG)<br>BUS354R (Written Exam, Open Book with e-Textbook & iSG) | Maheswari | Dr Yao Jingxian · reports at C.5.11 |

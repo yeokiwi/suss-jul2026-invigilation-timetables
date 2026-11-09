@@ -1,8 +1,6 @@
 # Lim Suan Kiow — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **17 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -28,13 +26,9 @@ Roles: Chief Invigilator × 11, Invigilator × 6
 | 14 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.3.10** | CSS316 (POE, Closed Book)<br>ECC305 (POE, Closed Book) | *(you)* | A/P Brian Lee · reports at C.3.08 |
 | 15 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.10** | HRM231 (POE, Closed Book) | Josephine Ng Seok, Julia Lee (US) | Prof Luo FuTeng · reports at C.3.08 |
 | 16 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.3.10** | COU209 (POE, Closed Book)<br>SPE107 (POE, Closed Book)<br>CTI122 (POE, Open Book) | *(you)* | A/P Jiang Zhiying · reports at C.3.08 |
-| 17 | Fri 20 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.10** | ACC203 (POE, Closed Book)<br>COU254 (POE, Closed Book)<br>ECL205 (POE, Closed Book) | *(you)* | A/P Ng Kai Teck · reports at C.3.08 |
+| 17 | Fri 20 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.10** | ACC203 (POE, Closed Book)<br>COU254 (POE, Closed Book)<br>ECL205 (POE, Closed Book) | *(you)* | Dr Lukas Johannes Helikum · reports at C.3.08 |
 
 > **Back-to-back:** Thu 12 Nov (12:00 PM finish → 12:00 PM report); Sat 14 Nov (12:00 PM finish → 12:00 PM report); Mon 16 Nov (12:00 PM finish → 12:00 PM report); Tue 17 Nov (12:00 PM finish → 12:00 PM report); Wed 18 Nov (12:00 PM finish → 12:00 PM report); Thu 19 Nov (12:00 PM finish → 12:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- Fri 20 Nov 2026, 10:00 AM – 12:00 PM · Chief Invigilator · C.3.10 · ACC203, COU254, ECL205 — **added**
 
 ## Reporting
 

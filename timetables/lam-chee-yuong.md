@@ -1,6 +1,6 @@
 # Lam Chee Yuong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **7 duties** · Tue 10 Nov 2026 to Tue 17 Nov 2026
 
@@ -15,7 +15,7 @@ Roles: Invigilator × 7
 | 3 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.14** | ACC201 (Written Exam, Open Book with e-Textbook & iSG) | Esther Wong | A/P Koh Wei Chern · reports at C.4.12 |
 | 4 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.08** | SWK100 (POE, Closed Book) | Doris Heng | Dr Millie Su (CL) · reports at C.4.08 |
 | 5 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.09** | BPM303 (Written Exam, Open Book with e-Textbook & iSG) | Alvin Wong | A/P Hu Shu (CL) · reports at C.5.07 |
-| 6 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | ACC202 (POE, Closed Book) | Josephine Ng Seok | Dr Lukas Johannes Helikum · reports at C.4.12 |
+| 6 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | ACC202 (POE, Closed Book) | Josephine Ng Seok | A/P Ng Kai Teck · reports at C.4.12 |
 | 7 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.10** | ANL305 (POE, Closed Book) | Josephine Ng Seok | Dr Ren Jing Dr Lim Kwan Hui (US) · reports at C.3.08 |
 
 > **Back-to-back:** Sat 14 Nov (12:00 PM finish → 12:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.

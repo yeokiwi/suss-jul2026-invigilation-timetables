@@ -1,6 +1,6 @@
 # Josephine Ng Seok — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **17 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -18,7 +18,7 @@ Roles: Chief Invigilator × 17
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.10** | ICT133 (POE, Closed Book) | *(you)* | Dr Kaveri G · reports at C.4.08 |
 | 7 | Fri 13 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.08** | COM203 (POE, Closed Book) | *(you)* | Dr Priyanka Gupta · reports at C.3.08 |
 | 8 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | BME311 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Clement Yuen · reports at C.5.07 |
-| 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.12** | ACC202 (POE, Closed Book) | *(you)* | Dr Lukas Johannes Helikum · reports at C.4.12 |
+| 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.12** | ACC202 (POE, Closed Book) | *(you)* | A/P Ng Kai Teck · reports at C.4.12 |
 | 10 | Mon 16 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.5.07** | EMT105 (Written Exam, Closed Book) | *(you)* | Dr Cao Jieqiong (CL) · reports at C.5.07 |
 | 11 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.10** | ANL305 (POE, Closed Book) | *(you)* | Dr Ren Jing Dr Lim Kwan Hui (US) · reports at C.3.08 |
 | 12 | Tue 17 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.5.07** | PSS304 (POE, Closed Book) | *(you)* | Dr Pamela Goh · reports at C.5.07 |

@@ -1,8 +1,8 @@
 # Ellysha Natasha — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
-**No duties in roster v2.** All duties from roster v1 (16 Oct 2026) were removed:
+**No duties in roster v3.** Last on the roster in v1, with these duties:
 
 - ~~Wed 11 Nov 2026, 1:00 PM – 3:00 PM · Standby Chief Invigilator (Written)~~
 

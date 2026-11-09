@@ -271,6 +271,16 @@ def parse(pdf_path):
                 # e-exam rows ("<name> Standby e-Exam Support: <name>").
                 mode = None
                 lines = [clean(l) for l in text.split("\n") if clean(l)]
+                # After a struck-out name is removed, the replacement can be left
+                # on the next line ("Standby 1:" / "Ryan Tan"): re-join them.
+                merged = []
+                for ln in lines:
+                    if (merged and re.fullmatch(r"Standby \d+:", merged[-1])
+                            and ln not in ("POE", "Written") and not ln.startswith("Standby")):
+                        merged[-1] += " " + ln
+                    else:
+                        merged.append(ln)
+                lines = [ln for ln in merged if not re.fullmatch(r"Standby \d+:", ln)]
                 pre_support = True
                 for ln in lines:
                     if ln in ("POE", "Written"):

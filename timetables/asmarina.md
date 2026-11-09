@@ -1,6 +1,6 @@
 # Asmarina — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **14 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -12,9 +12,9 @@ Roles: Chief Invigilator × 8, Chief Invigilator (Understudy) × 1, Invigilator 
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.6.11** | BUS104 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Prof Lee Pui Mun · reports at C.6.09 |
 | 2 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.6.11** | IPM529 (POE, Closed Book) | Candice Tai | A/P Eric Gan |
-| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.12** | FLM101 (POE, Closed Book)<br>SPE101 (POE, Closed Book) | *(you)* | A/P Eugene Chew · reports at C.4.12 |
+| 3 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.12** | FLM101 (POE, Closed Book)<br>SPE101 (POE, Closed Book) | *(you)* | Dr Yao Shih-Ying · reports at C.4.12 |
 | 4 | Wed 11 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.14** | COM101 (POE, Closed Book) | Roslyn Tan | A/P Soe Marlar Lwin · reports at C.4.12 |
-| 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.5.09** | EAS401 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Yao Shih-Ying · reports at C.5.07 |
+| 5 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.5.09** | EAS401 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Eugene Chew · reports at C.5.07 |
 | 6 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.6.05** | EAS435 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH210 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH357R (Written Exam, Open Book with e-Textbook & iSG) | June Kwok | A/P Lau Kong Cheen · reports at C.6.05 |
 | 7 | Sat 14 Nov 2026 | 10:00 AM – 1:00 PM | 9:00 AM | Chief Invigilator | **C.3.12** | GSS505 (POE, Open Book)<br>HRM488 (POE, Closed Book) | *(you)* | Dr Vivien Shan Wen |
 | 8 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.5.14** | FIN364* (POE, Closed Book) | Wong Chong Kai | Dr Lo Swee Won (CL) Patricia Wee (US) · reports at C.5.11 |

@@ -1,8 +1,6 @@
 # Jeanne Ng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 removed · 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **9 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -23,11 +21,6 @@ Roles: Invigilator × 9
 | 9 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.10** | MKT351 (POE, Closed Book) | Emily Heng, Benjamin Toh (US) | Dr Ganthimathi · reports at C.4.08 |
 
 > **Back-to-back:** Tue 10 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Thu 19 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.10 · ICT162~~ — **removed**
-- Tue 17 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.5.07 · HRM233 — **added**
 
 ## Reporting
 

@@ -1,8 +1,6 @@
 # Kenny Lim — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 2 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **13 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -23,15 +21,10 @@ Roles: Invigilator × 13
 | 9 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.08** | ANL305 (POE, Closed Book) | Sharon Goh Siew Hong | Dr Ren Jing Dr Lim Kwan Hui (US) · reports at C.3.08 |
 | 10 | Tue 17 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.3.12** | GSS506 (POE, Open Book)<br>SWK503 (POE, Closed Book) | Cheng Tian Yee | A/P Caroline Lim |
 | 11 | Wed 18 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.10** | ICT348 (Written Exam, Open Book with e-Textbook & iSG) | Sebastian Caroline Ann | Dr Sunny Leong · reports at C.4.08 |
-| 12 | Fri 20 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.08** | ACC203 (POE, Closed Book) | Jolene Ang | A/P Ng Kai Teck · reports at C.3.08 |
+| 12 | Fri 20 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.08** | ACC203 (POE, Closed Book) | Jolene Ang | Dr Lukas Johannes Helikum · reports at C.3.08 |
 | 13 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.14** | ENG231 (POE, Closed Book) | Maheswari | Dr Li Jiayao · reports at C.4.12 |
 
 > **Back-to-back:** Tue 10 Nov (12:00 PM finish → 12:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- Tue 17 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.3.08 · ANL305 — **added**
-- Tue 17 Nov 2026, 4:00 PM – 7:00 PM · Invigilator · C.3.12 · GSS506, SWK503 — **added**
 
 ## Reporting
 

@@ -1,6 +1,6 @@
 # Maheswari — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **17 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -11,7 +11,7 @@ Roles: Chief Invigilator × 16, Invigilator × 1
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.10** | FIN322* (POE, Closed Book)<br>FIN312R* (POE, Closed Book)<br>SPE205 (POE, Closed Book) | *(you)* | A/P Tan Chong Hui (CL) · reports at C.4.08 |
-| 2 | Tue 10 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.12** | ENG105 (Written Exam, Open Book with e-Textbook & iSG)<br>FMT320 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Joyce Wang · reports at C.4.12 |
+| 2 | Tue 10 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.12** | ENG105 (Written Exam, Open Book with e-Textbook & iSG)<br>FMT320 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Zhu Siying · reports at C.4.12 |
 | 3 | Wed 11 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.10** | PSY265 (POE, Closed Book)<br>SWK401 (POE, Closed Book) | *(you)* | Jeremy Ang Dr Harry Lim (US) · reports at C.3.08 |
 | 4 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.14** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Yeung Sze Kiu · reports at C.5.11 |
 | 5 | Thu 12 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.08** | ICT133 (POE, Closed Book) | *(you)* | Dr Kaveri G · reports at C.4.08 |

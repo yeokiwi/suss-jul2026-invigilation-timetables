@@ -1,6 +1,6 @@
 # Sofia Yowendra — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **1 duty** · Mon 16 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.4.15** | ACC202 (POE, Closed Book) | Karen Goh, Sofia Yowendra (US) | Dr Lukas Johannes Helikum · reports at C.4.12 |
+| 1 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.4.15** | ACC202 (POE, Closed Book) | Karen Goh, Sofia Yowendra (US) | A/P Ng Kai Teck · reports at C.4.12 |
 
 ## Reporting
 

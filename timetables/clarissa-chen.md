@@ -1,6 +1,6 @@
 # Clarissa Chen — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **0 duties** + **1 standby** · Wed 18 Nov 2026
 

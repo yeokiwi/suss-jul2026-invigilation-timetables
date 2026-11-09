@@ -1,8 +1,6 @@
 # Wong Chang Boon — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 3 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **11 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -23,12 +21,6 @@ Roles: Invigilator × 11
 | 9 | Thu 19 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.12** | MKT351 (POE, Closed Book) | Tommy Ong | Dr Vicky Kuo · reports at C.4.12 |
 | 10 | Thu 19 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.12** | ICT162 (POE, Closed Book) | Vera Lui | A/P Tan Teng Hooi · reports at C.4.12 |
 | 11 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.08** | COM302 (POE, Closed Book) | Marie Lur | Dr Muhammad Arafat · reports at C.4.08 |
-
-## Changes since v1 (16 Oct 2026)
-
-- Tue 10 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.3.08 · FIN306 — **added**
-- Mon 16 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.12 · ICT259 — **added**
-- Tue 17 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.08 · PSY108 — **added**
 
 ## Reporting
 

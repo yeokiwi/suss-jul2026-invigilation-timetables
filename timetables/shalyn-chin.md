@@ -1,16 +1,23 @@
 # Shalyn Chin — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
-**0 duties** + **1 standby** · Wed 18 Nov 2026
+> **Changed since v2 (23 Oct 2026):** 1 removed · 1 added — see [Changes](#changes-since-v2-23-oct-2026) below.
 
-Roles: Standby Chief Invigilator (POE) × 1
+**0 duties** + **1 standby** · Tue 17 Nov 2026
+
+Roles: Standby Chief Invigilator (Written) × 1
 
 ## Standby
 
 | # | Date | Session | Report By | Role |
 |---|---|---|---|---|
-| 1 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Standby Chief Invigilator (POE) |
+| 1 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Standby Chief Invigilator (Written) |
+
+## Changes since v2 (23 Oct 2026)
+
+- ~~Wed 18 Nov 2026, 1:00 PM – 3:00 PM · Standby Chief Invigilator (POE)~~ — **removed**
+- Tue 17 Nov 2026, 1:00 PM – 3:00 PM · Standby Chief Invigilator (Written) — **added**
 
 ## Reporting
 

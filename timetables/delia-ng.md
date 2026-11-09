@@ -1,10 +1,12 @@
 # Delia Ng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
-**9 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
+> **Changed since v2 (23 Oct 2026):** 1 removed — see [Changes](#changes-since-v2-23-oct-2026) below.
 
-Roles: Invigilator × 9
+**8 duties** · Tue 10 Nov 2026 to Wed 18 Nov 2026
+
+Roles: Invigilator × 8
 
 ## Duties
 
@@ -18,9 +20,12 @@ Roles: Invigilator × 9
 | 6 | Mon 16 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.3.10** | SWK354 (POE, Closed Book)<br>SCM355 (POE, Closed Book) | Maheswari | A/P Yap Wei Yim · reports at C.3.08 |
 | 7 | Tue 17 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.08** | PSY108 (POE, Closed Book) | Marie Lur | Dr Vincent Oh · reports at C.4.08 |
 | 8 | Wed 18 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.08** | HRM203 (POE, Closed Book)<br>BME215 (POE, Closed Book) | Marie Lur | Dr Sunny Leong · reports at C.4.08 |
-| 9 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.12** | FMT205 (Written Exam, Open Book with e-Textbook & iSG) | Tommy Ong | Dr Li Jiayao · reports at C.4.12 |
 
 > **Back-to-back:** Mon 16 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
+
+## Changes since v2 (23 Oct 2026)
+
+- ~~Fri 20 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.12 · FMT205~~ — **removed**
 
 ## Reporting
 

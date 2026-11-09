@@ -1,6 +1,6 @@
 # Eve Yong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **19 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -15,7 +15,7 @@ Roles: Chief Invigilator × 11, Chief Invigilator (Understudy) × 2, Invigilator
 | 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.10** | MKT202 (POE, Closed Book) | Lim Suan Kiow | Dr Chris Woo · reports at C.4.08 |
 | 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.10** | EMT223 (POE, Closed Book)<br>ICT225 (POE, Closed Book) | *(you)* | A/P Ludwig Tan · reports at C.4.08 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator (Understudy) | **C.3.12** | LAW405* (e-Exam, Examplify) | Doris Heng, Eve Yong (US) | A/P Alvin Cheng (CL) |
-| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.5.07** | BPM113 (Written Exam, Open Book with e-Textbook & iSG)<br>BUS362R (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Yao Shih-Ying · reports at C.5.07 |
+| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.5.07** | BPM113 (Written Exam, Open Book with e-Textbook & iSG)<br>BUS362R (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Eugene Chew · reports at C.5.07 |
 | 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.15** | ACC201 (Written Exam, Open Book with e-Textbook & iSG)<br>EAS109 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Koh Wei Chern · reports at C.4.12 |
 | 8 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.07** | FIN205 (Written Exam, Closed Book)<br>HFS103 (Written Exam, Closed Book)<br>SEC335 (Written Exam, Closed Book) | Tommy Ong | A/P Neo Poh Ling · reports at C.6.05 |
 | 9 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.6.09** | ICT246 (Written Exam, Closed Book) | *(you)* | Dr Park Homin · reports at C.6.09 |

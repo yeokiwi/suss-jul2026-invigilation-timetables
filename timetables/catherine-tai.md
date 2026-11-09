@@ -1,8 +1,6 @@
 # Catherine Tai — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 1 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **12 duties** · Tue 10 Nov 2026 to Tue 17 Nov 2026
 
@@ -26,10 +24,6 @@ Roles: Invigilator × 12
 | 12 | Tue 17 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.5.11** | BPM307 (Written Exam, Open Book with e-Textbook & iSG) | Tommy Ong | Dr Manivannan Murugesan (CL) · reports at C.5.11 |
 
 > **Back-to-back:** Sat 14 Nov (12:00 PM finish → 12:00 PM report); Mon 16 Nov (12:00 PM finish → 12:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- Mon 16 Nov 2026, 1:00 PM – 3:00 PM · Invigilator · C.6.09 · SST201* — **added**
 
 ## Reporting
 

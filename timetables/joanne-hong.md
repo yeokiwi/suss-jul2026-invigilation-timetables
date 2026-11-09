@@ -1,6 +1,6 @@
 # Joanne Hong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **14 duties** · Tue 10 Nov 2026 to Wed 18 Nov 2026
 
@@ -18,7 +18,7 @@ Roles: Chief Invigilator × 5, Chief Invigilator (Understudy) × 1, Invigilator 
 | 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.10** | FTH387 (POE, Closed Book)<br>BME219 (POE, Closed Book) | *(you)* | A/P Liu Wenting · reports at C.4.08 |
 | 7 | Sat 14 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.08** | SWK100 (POE, Closed Book) | Roslyn Tan | Dr Carol Pereira · reports at C.3.08 |
 | 8 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.10** | COM105 (POE, Closed Book)<br>COU202 (POE, Closed Book)<br>HFS301* (POE, Closed Book) | Karen Goh | A/P Angela Tan (CL) · reports at C.3.08 |
-| 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.11** | BUS201* (Written Exam, Open Book with e-Textbook & iSG)<br>SEC337 (Written Exam, Closed Book) | Audrey Tay | Dr Zhu Siying · reports at C.6.09 |
+| 9 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.11** | BUS201* (Written Exam, Open Book with e-Textbook & iSG)<br>SEC337 (Written Exam, Closed Book) | Audrey Tay | Dr Wang Peng · reports at C.6.09 |
 | 10 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.6.07** | HFS303 (Written Exam, Closed Book) | *(you)* | Dr Evelyn Gay · reports at C.6.05 |
 | 11 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.4.14** | PSS103 (POE, Closed Book) | Serene Low | Dr Grace Chee · reports at C.4.12 |
 | 12 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.4.14** | ABS354 (POE, Open Book)<br>POL203 (POE, Open Book) | *(you)* | Dr Natasha Nur Singh Riard · reports at C.4.12 |

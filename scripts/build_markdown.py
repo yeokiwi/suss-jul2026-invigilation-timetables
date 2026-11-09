@@ -100,7 +100,7 @@ def person_changes(old_rs, new_rs):
     return removed, added
 
 
-def main(src, out, source_label, prev=None, prev_label="previous roster"):
+def main(src, out, source_label, prev=None, prev_label="previous roster", history=None):
     recs = enrich(json.load(open(src)))
     old = enrich(json.load(open(prev))) if prev else []
     old_people = collections.defaultdict(list)
@@ -206,6 +206,24 @@ def main(src, out, source_label, prev=None, prev_label="previous roster"):
         with open(os.path.join(out, "timetables", slug(name) + ".md"), "w") as f:
             f.write("\n".join(L))
 
+    # people who left in an even earlier version: keep a short page so old links still work
+    earlier_gone = {}
+    for h in history or []:
+        ver = re.search(r"(v\d+)", os.path.basename(h)).group(1)
+        for r in enrich(json.load(open(h))):
+            if r["name"] not in people and r["name"] not in old_people:
+                earlier_gone.setdefault(r["name"], {}).setdefault(ver, []).append(r)
+    for name, by_ver in earlier_gone.items():
+        last = max(by_ver, key=lambda v: int(v[1:]))
+        rs = sorted(by_ver[last], key=lambda r: (r["_d"], r["_s"]))
+        L = [f"# {name} — Invigilation Timetable", "",
+             f"SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster {source_label}", "",
+             f"**No duties in roster {source_label.split(' ')[0]}.** Last on the roster in {last}, with these duties:", ""]
+        L += [f"- ~~{duty_line(r)}~~" for r in rs]
+        L += ["", "[← All invigilators](../README.md)", ""]
+        with open(os.path.join(out, "timetables", slug(name) + ".md"), "w") as f:
+            f.write("\n".join(L))
+
     if prev:
         C = [f"# Changes: {prev_label} → {source_label}", "",
              f"Duties that changed between roster {prev_label} and roster {source_label}. "
@@ -242,6 +260,10 @@ def main(src, out, source_label, prev=None, prev_label="previous roster"):
     if prev:
         R += [f"**What changed since roster {prev_label}:** see [CHANGES.md](CHANGES.md) — "
               f"{len(changes)} people affected.", ""]
+    older = sorted(os.listdir(os.path.join(out, "changes"))) if os.path.isdir(os.path.join(out, "changes")) else []
+    if older:
+        R += ["Earlier change logs: " + " · ".join(
+            f"[{f[:-3].replace('-to-', ' → ')}](changes/{f})" for f in older if f.endswith(".md")), ""]
     R += [
          "## Reporting", "",
          "All invigilation teams report **1 hour before** the exam starts at **Block C, Exam Room C.2.05 (Level 2)**. "
@@ -258,14 +280,16 @@ def main(src, out, source_label, prev=None, prev_label="previous roster"):
                  f"{rs[0]['_d'].strftime('%-d %b')} – {rs[-1]['_d'].strftime('%-d %b')} |")
     R += ["", "## Data & scripts", "",
           "- `data/duties.csv` / `data/duties.json` — one row per person per duty (current roster)",
-          "- `data/history/` — parsed duties from earlier roster versions, used for the change log",
+          "- `data/history/` — parsed duties for every roster version, used for the change logs",
+          "- `changes/` — change logs between earlier roster versions",
           "- `scripts/parse_roster.py` — extracts duties from the roster PDF using its cell borders "
           "(so merged date/time/venue cells are matched correctly) and ignores struck-through names",
           "- `scripts/build_markdown.py` — builds these Markdown files and CHANGES.md", "",
           "Regenerate:", "", "```",
           "python3 scripts/parse_roster.py roster.pdf data/duties.json",
-          "python3 scripts/build_markdown.py data/duties.json . --source \"v2 dated 23 Oct 2026\" \\",
-          "    --prev data/history/duties_v1.json --prev-label \"v1 (16 Oct 2026)\"",
+          f"python3 scripts/build_markdown.py data/duties.json . --source \"{source_label}\" \\",
+          f"    --prev {prev or 'PREVIOUS.json'} --prev-label \"{prev_label}\""
+          + (f" \\\n    --history {' '.join(history)}" if history else ""),
           "```", ""]
     with open(os.path.join(out, "README.md"), "w") as f:
         f.write("\n".join(R))
@@ -288,5 +312,7 @@ if __name__ == "__main__":
     ap.add_argument("--source", required=True, help='roster version label, e.g. "v2 dated 23 Oct 2026"')
     ap.add_argument("--prev", help="duties JSON from the previous roster version, for the change log")
     ap.add_argument("--prev-label", default="previous roster")
+    ap.add_argument("--history", nargs="*", default=[],
+                    help="older duties JSONs (e.g. data/history/duties_v1.json); people only found there keep a page")
     a = ap.parse_args()
-    main(a.duties, a.out, a.source, a.prev, a.prev_label)
+    main(a.duties, a.out, a.source, a.prev, a.prev_label, a.history)

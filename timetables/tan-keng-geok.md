@@ -1,6 +1,6 @@
 # Tan Keng Geok — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **10 duties** · Tue 10 Nov 2026 to Mon 16 Nov 2026
 

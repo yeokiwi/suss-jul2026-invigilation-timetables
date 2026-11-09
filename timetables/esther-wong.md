@@ -1,6 +1,6 @@
 # Esther Wong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **18 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -13,7 +13,7 @@ Roles: Chief Invigilator × 13, Invigilator × 5
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.7.14** | SST101 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Lye Kit Ying · reports at C.7.11 |
 | 2 | Tue 10 Nov 2026 | 3:00 PM – 5:00 PM | 2:00 PM | Chief Invigilator | **C.6.11** | IPM529 (POE, Closed Book) | *(you)* | A/P Eric Gan |
 | 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.6.11** | MTM231 (POE, Open Book) | Elena Goo | A/P Ha Thi Thu Huong (CL) · reports at C.6.09 |
-| 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.6.05** | ICT318 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Ruth Yeo · reports at C.6.05 |
+| 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.6.05** | ICT318 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Yeo Chuan Tat · reports at C.6.05 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.6.09** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Cheng Ningning · reports at C.6.09 |
 | 6 | Thu 12 Nov 2026 | 3:00 PM – 5:00 PM | 2:00 PM | Chief Invigilator | **C.6.11** | IPM525 (POE, Closed Book) | *(you)* | Dr Teo Leong Hwee |
 | 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.4.14** | ACC201 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Koh Wei Chern · reports at C.4.12 |

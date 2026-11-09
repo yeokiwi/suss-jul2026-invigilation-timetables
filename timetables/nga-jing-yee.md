@@ -1,6 +1,6 @@
 # Nga Jing Yee — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **1 duty** · Wed 18 Nov 2026
 
@@ -10,7 +10,7 @@ Roles: Chief Invigilator (Understudy) × 1
 
 | # | Date | Exam Time | Report By | Role | Room | Course / Paper | Chief Invigilator | Presiding Examiner |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.4.08** | HFS351 (POE, Closed Book)<br>PRM311 (POE, Closed Book) | Ang Li Kar, Nga Jing Yee (US) | Yeo Chuan Tat · reports at C.4.08 |
+| 1 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.4.08** | HFS351 (POE, Closed Book)<br>PRM311 (POE, Closed Book) | Ang Li Kar, Nga Jing Yee (US) | Ruth Yeo · reports at C.4.08 |
 
 ## Reporting
 

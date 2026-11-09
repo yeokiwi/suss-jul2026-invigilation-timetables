@@ -1,6 +1,6 @@
 # Emily Heng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **18 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -13,7 +13,7 @@ Roles: Chief Invigilator × 10, Chief Invigilator (Understudy) × 1, Invigilator
 | 1 | Tue 10 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.09** | ANL303 (POE, Closed Book)<br>COU105 (POE, Closed Book) | *(you)* | Dr Edward Yapp Dr Muhammad Hafiz (US) · reports at C.5.07 |
 | 2 | Tue 10 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator (Understudy) | **C.3.12** | CET315 (e-Exam, Examplify) | Doris Heng, Emily Heng (US) | Olivine Lin |
 | 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.11** | SWK102* (POE, Closed Book) | *(you)* | Dr Vivienne Ng (CL) Dr Jonathan Kuek (US) · reports at C.5.11 |
-| 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.08** | ELT201 (POE, Closed Book) | Low Wai Leng | A/P Ludwig Tan · reports at C.4.08 |
+| 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.08** | ELT201 (POE, Closed Book)<br>MTD113 (POE, Closed Book) | Low Wai Leng | A/P Ludwig Tan · reports at C.4.08 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.11** | BUS105 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Yeung Sze Kiu · reports at C.5.11 |
 | 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.11** | ENG101 (Written Exam, Open Book with e-Textbook & iSG) | Jolene Ang | Lawrence Boey |
 | 7 | Fri 13 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.07** | EAS101 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Pan Zhengqi (CL) · reports at C.5.07 |

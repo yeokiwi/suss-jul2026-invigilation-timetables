@@ -1,8 +1,6 @@
 # Justina Quek — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 2 removed · 3 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **11 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -25,14 +23,6 @@ Roles: Invigilator × 11
 | 11 | Thu 19 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.10** | ICT162 (POE, Closed Book) | Alvin Wong | Dr Ng Siew Chin · reports at C.4.08 |
 
 > **Back-to-back:** Wed 11 Nov (3:00 PM finish → 3:00 PM report); Mon 16 Nov (3:00 PM finish → 3:00 PM report); Tue 17 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Thu 12 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.4.12 · BUS105~~ — **removed**
-- ~~Wed 18 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.10 · ICT348~~ — **removed**
-- Wed 11 Nov 2026, 1:00 PM – 3:00 PM · Invigilator · C.5.09 · ICT114 — **added**
-- Tue 17 Nov 2026, 1:00 PM – 3:00 PM · Invigilator · C.6.09 · MTH109, EMT317 — **added**
-- Thu 19 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.10 · ICT162 — **added**
 
 ## Reporting
 

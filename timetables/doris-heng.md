@@ -1,6 +1,6 @@
 # Doris Heng — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **17 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -21,7 +21,7 @@ Roles: Chief Invigilator × 9, Chief Invigilator (Understudy) × 1, Invigilator 
 | 9 | Sat 14 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.08** | HRM357 (POE, Closed Book) | Casey Seto | A/P Benjamin Loh · reports at C.4.08 |
 | 10 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.10** | SCM301 (POE, Closed Book) | *(you)* | A/P Loh Hui Shan · reports at C.3.08 |
 | 11 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.10** | SWK201* (POE, Closed Book) | Gerald Wong | Nicholas Netto (CL) · reports at C.3.08 |
-| 12 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | Dr Wang Peng · reports at C.5.11 |
+| 12 | Tue 17 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.5.11** | BUS102 (Written Exam, Open Book with e-Textbook & iSG) | *(you)* | A/P Joyce Wang · reports at C.5.11 |
 | 13 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.11** | BUS308* (Written Exam, Open Book with e-Textbook & iSG)<br>ENG201 (Written Exam, Open Book with e-Textbook & iSG) | Roslyn Tan | A/P Bheema Thiagarajan Lokesh · reports at C.5.11 |
 | 14 | Wed 18 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Chief Invigilator | **C.3.08** | LOG302 (POE, Closed Book) | *(you)* | A/P Hsieh Cheng-Hsien · reports at C.3.08 |
 | 15 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.10** | CSS316 (POE, Closed Book)<br>ECC305 (POE, Closed Book) | Lim Suan Kiow | A/P Brian Lee · reports at C.3.08 |

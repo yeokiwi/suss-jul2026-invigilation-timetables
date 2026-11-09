@@ -1,6 +1,6 @@
 # Low How Choi — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **15 duties** · Tue 10 Nov 2026 to Thu 19 Nov 2026
 
@@ -15,7 +15,7 @@ Roles: Chief Invigilator × 5, Invigilator × 10
 | 3 | Wed 11 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.08** | PSS221 (POE, Closed Book) | Marie Lur | Dr Sheryl Chua · reports at C.3.08 |
 | 4 | Wed 11 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.3.08** | BUS205* (POE, Closed Book) | Vera Lui | A/P Lam Chen Meng (CL) · reports at C.3.08 |
 | 5 | Thu 12 Nov 2026 | 10:00 AM – 11:00 AM | 9:00 AM | Chief Invigilator | **INTERPRETATION LAB 1, BLK C, C.5.01** | CTI301 (Interpretation Lab Exam) | *(you)* | A/P Susan Xu |
-| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | BPM113 (Written Exam, Open Book with e-Textbook & iSG)<br>BUS362R (Written Exam, Open Book with e-Textbook & iSG) | Eve Yong | Dr Yao Shih-Ying · reports at C.5.07 |
+| 6 | Thu 12 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.07** | BPM113 (Written Exam, Open Book with e-Textbook & iSG)<br>BUS362R (Written Exam, Open Book with e-Textbook & iSG) | Eve Yong | A/P Eugene Chew · reports at C.5.07 |
 | 7 | Fri 13 Nov 2026 | 10:00 AM – 1:00 PM | 9:00 AM | Chief Invigilator | **INTERPRETATION LAB 1, BLK C, C.5.01** | MLL315 (Interpretation Lab Exam) | *(you)* | A/P Lim Beng Soon |
 | 8 | Mon 16 Nov 2026 | 10:00 AM – 12:00 PM | 9:00 AM | Invigilator | **C.3.10** | SCM301 (POE, Closed Book) | Doris Heng | A/P Loh Hui Shan · reports at C.3.08 |
 | 9 | Mon 16 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.3.12** | LAW329* (e-Exam, Examplify) | *(you)* | Dr Chuanman (CL) |

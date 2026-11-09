@@ -1,6 +1,6 @@
 # Alvin Wong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **17 duties** · Tue 10 Nov 2026 to Fri 20 Nov 2026
 
@@ -23,10 +23,10 @@ Roles: Chief Invigilator × 10, Invigilator × 7
 | 11 | Tue 17 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.5.09** | BUS308* (Written Exam, Open Book with e-Textbook & iSG) | Linda Yiu | Dr Xu Jianxiong (CL) · reports at C.5.07 |
 | 12 | Tue 17 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.5.09** | PSS304 (POE, Closed Book)<br>SPE311 (POE, Closed Book)<br>SWK290 (POE, Closed Book) | *(you)* | Dr Pamela Goh · reports at C.5.07 |
 | 13 | Wed 18 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Chief Invigilator | **C.3.08** | COM301 (POE, Closed Book) | *(you)* | A/P Brian Lee · reports at C.3.08 |
-| 14 | Wed 18 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.3.12** | LAW311* (e-Exam, Examplify) | Vera Lui | Samuel Chua (CL) |
+| 14 | Wed 18 Nov 2026 | 4:00 PM – 7:00 PM | 3:00 PM | Invigilator | **C.3.12** | LAW311* (e-Exam, Examplify) | Vera Lui, Karen Goh (US) | Samuel Chua (CL) |
 | 15 | Thu 19 Nov 2026 | 1:00 PM – 3:00 PM | 12:00 PM | Invigilator | **C.4.10** | BME312 (Written Exam, Open Book with e-Textbook & iSG)<br>EAS307 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH353 (Written Exam, Open Book with e-Textbook & iSG) | Eve Yong | Dr Chan Yon Sin · reports at C.4.08 |
 | 16 | Thu 19 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.4.10** | ICT162 (POE, Closed Book) | *(you)* | Dr Ng Siew Chin · reports at C.4.08 |
-| 17 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.12** | CMM318 (POE, Closed Book) | *(you)* | Alexander Joseph Woon |
+| 17 | Fri 20 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Chief Invigilator | **C.3.12** | CMM318 (POE, Closed Book) | *(you)* | Dr Regina Lee |
 
 > **Back-to-back:** Tue 10 Nov (3:00 PM finish → 3:00 PM report); Wed 11 Nov (3:00 PM finish → 3:00 PM report); Thu 12 Nov (3:00 PM finish → 3:00 PM report); Mon 16 Nov (3:00 PM finish → 3:00 PM report); Tue 17 Nov (3:00 PM finish → 3:00 PM report); Wed 18 Nov (3:00 PM finish → 3:00 PM report); Thu 19 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
 

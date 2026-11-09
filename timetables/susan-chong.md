@@ -1,8 +1,6 @@
 # Susan Chong — Invigilation Timetable
 
-SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v2 dated 23 Oct 2026
-
-> **Changed since v1 (16 Oct 2026):** 8 removed · 4 added — see [Changes](#changes-since-v1-16-oct-2026) below.
+SUSS July 2026 Semester Exams on Campus · Source: Invigilation Roster v3 dated 6 Nov 2026
 
 **6 duties** · Tue 10 Nov 2026 to Wed 18 Nov 2026
 
@@ -20,21 +18,6 @@ Roles: Chief Invigilator × 4, Invigilator × 2
 | 6 | Wed 18 Nov 2026 | 4:00 PM – 6:00 PM | 3:00 PM | Invigilator | **C.4.12** | ICT348 (Written Exam, Open Book with e-Textbook & iSG)<br>MTH367 (Written Exam, Open Book with e-Textbook & iSG) | Koh Chee Han | A/P June Tay · reports at C.4.12 |
 
 > **Back-to-back:** Wed 11 Nov (12:00 PM finish → 12:00 PM report); Wed 18 Nov (3:00 PM finish → 3:00 PM report). The next session's reporting time falls before the previous one ends — check the changeover with the EA Department.
-
-## Changes since v1 (16 Oct 2026)
-
-- ~~Tue 10 Nov 2026, 10:00 AM – 12:00 PM · Chief Invigilator · C.6.07 · BUS104~~ — **removed**
-- ~~Tue 10 Nov 2026, 1:00 PM – 3:00 PM · Invigilator · C.5.11 · ENG301*, FMT303~~ — **removed**
-- ~~Thu 12 Nov 2026, 10:00 AM – 12:00 PM · Invigilator · C.4.08 · BUS105~~ — **removed**
-- ~~Thu 12 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator · C.4.08 · COM322, COU102~~ — **removed**
-- ~~Mon 16 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator · C.5.11 · FIN203~~ — **removed**
-- ~~Mon 16 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.15 · ICT259~~ — **removed**
-- ~~Tue 17 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator · C.4.12 · FIN304~~ — **removed**
-- ~~Tue 17 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.08 · PSY108~~ — **removed**
-- Tue 10 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator · C.4.14 · SCM201 — **added**
-- Thu 12 Nov 2026, 10:00 AM – 12:00 PM · Chief Invigilator · C.4.15 · BUS105 — **added**
-- Wed 18 Nov 2026, 1:00 PM – 3:00 PM · Chief Invigilator · C.4.12 · ICT101 — **added**
-- Wed 18 Nov 2026, 4:00 PM – 6:00 PM · Invigilator · C.4.12 · ICT348, MTH367 — **added**
 
 ## Reporting
 
